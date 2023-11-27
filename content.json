@@ -1,0 +1,100 @@
+{
+    "Format": "1.30.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Characters/Ross",
+            "FromFile": "assets/RossSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Ross",
+            "FromFile": "assets/RossPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Ross",
+            "FromFile": "assets/RossDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueRoss",
+            "FromFile": "assets/RossMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Ross",
+            "FromFile": "assets/RossSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Ross": "adult/polite/outgoing/positive/male/datable//Town/spring 17/David 'boyfriend'/BusStop 19 4/Ross"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Ross": "Oh my gosh! This is a great gift!/227 728 636 70 459/Thanks! This is lit!/-6 -79 815 446/Oh... uh... thanks, I guess./903/This frigging sucks./204/Thanks!/-5/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Ross0": "I can't believe I am about to be married!$h",
+                "Ross1": "I hope I don't get cold feet"
+            }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/David",
+            "FromFile": "assets/DavidSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/David",
+            "FromFile": "assets/DavidPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/David",
+            "FromFile": "assets/DavidDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueDavid",
+            "FromFile": "assets/DavidMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/David",
+            "FromFile": "assets/DavidSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "David": "adult/neutral/neutral/neutral/male/datable//Town/spring 16/Ross 'boyfriend'/BusStop 19 5/David"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "David": "Oh my god! This is great! Thanks!/395 730 834 564 591/Thanks! I really like this!/423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "David0": "I can't believe I am about to be married!$h",
+                "David1": "I hope I don't get cold feet"
+            }
+        }
+    ]
+}
