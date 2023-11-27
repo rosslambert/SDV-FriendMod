@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] FM",
+    "Author": "Ross Lambert",
+    "Version": "0.0.3",
+    "Description": "This mod puts Ross and David into the game.",
+    "UniqueID": "RossLambert.FM",
+    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
