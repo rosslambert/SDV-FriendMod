@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "David": "Oh my god! This is great! Thanks!/395 730 834 564 591/Thanks! I really like this!/423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
+                "David": "Oh my god! This is great! Thanks!/395 730 834 564 591 253/Thanks! I really like this!/423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
             }
         },
         {
@@ -94,6 +94,54 @@
             "Entries": {
                 "David0": "I can't believe I am about to be married!$h",
                 "David1": "I hope I don't get cold feet"
+            }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Zech",
+            "FromFile": "assets/ZechSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Zech",
+            "FromFile": "assets/ZechPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Zech",
+            "FromFile": "assets/ZechDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueZech",
+            "FromFile": "assets/ZechMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Zech",
+            "FromFile": "assets/ZechSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Zech": "adult/polite/outgoing/neutral/male/datable//Town/fall 1/Ross 'friend'/BusStop 19 6/Zech"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Zech": "Hey, man! This is AWESOME!/395 296 539 303 253/Hey! Thanks, man!/74/I don't like this, man./-6/Gee, pal. This gift sucks.//Thanks, man./-79 -5 -75/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Zech0": "I can't believe I am about to be married!$h",
+                "Zech1": "I hope I don't get cold feet"
             }
         }
     ]
