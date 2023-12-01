@@ -10,7 +10,7 @@ This mod adds Ross and his friends into the game of Stardew Valley.
 
 ## Updates
 
-### V 0.0.5 (unreleased)
+### V 0.0.5
 * Added Shelby to the game. She spawns at the bus stop.
 * Added Shelby's portrait.
 * Updated Shelby's likes and dislikes.
