@@ -18,5 +18,5 @@
   "fall": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 BusStop 22 5 2/1700 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
   "winter": "900 SeedShop 39 5 0/1030 ScienceHouse 5 19 1/1430 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
   "summer": "900 SeedShop 39 5 0/1030 Railroad 30 45 0/1400 Mountain 49 31 1/1740 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep",
-  "spring": "800 SeedShop 39 5 0/830 SeedShop 34 5 0"
+  "spring": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 Town 73 54 2/1630 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep"
 }

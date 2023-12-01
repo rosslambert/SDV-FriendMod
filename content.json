@@ -126,7 +126,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Zech": "adult/polite/outgoing/neutral/male/datable//Town/fall 1/Ross 'friend'/BusStop 19 6/Zech"
+                "Zech": "adult/polite/outgoing/neutral/male/datable//Town/fall 1/Shelby 'wife'/BusStop 19 6/Zech"
             }
         },
         {
@@ -142,6 +142,54 @@
             "Entries": {
                 "Zech0": "I can't believe I am about to be married!$h",
                 "Zech1": "I hope I don't get cold feet"
+            }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Shelby",
+            "FromFile": "assets/ShelbySprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Shelby",
+            "FromFile": "assets/ShelbyPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Shelby",
+            "FromFile": "assets/ShelbyDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueShelby",
+            "FromFile": "assets/ShelbyMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Shelby",
+            "FromFile": "assets/ShelbySchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Shelby": "adult/polite/neutral/positive/female/datable//Town/winter 16/Zech 'husband'/BusStop 21 6/Shelby"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Shelby": "*gasp* This is amazing! Thank you so much!/395 208 62 348 418/Hey! This is a splendid gift!/-79 815 104/Oh... uh... thanks, I guess./257 281 851 420 422/Why did you give me this? Walk me through your thought process on that one./404/Thanks!/-5 -6/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Shelby0": "I can't believe I am about to be married!$h",
+                "Shelby1": "I hope I don't get cold feet"
             }
         }
     ]
