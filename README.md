@@ -10,6 +10,12 @@ This mod adds Ross and his friends into the game of Stardew Valley.
 
 ## Updates
 
+### V 0.0.6
+* Added Skye to the game. They spawn at the bus stop. Unfortunately this game adheres to the gender binary, so Skye is currently listed as "female" in the game code, by necessity.
+* Added Skye's portrait.
+* Updated Skye's likes and dislikes
+* Set Skye's birthday to Spring 23
+
 ### V 0.0.5
 * Added Shelby to the game. She spawns at the bus stop.
 * Added Shelby's portrait.

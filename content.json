@@ -191,6 +191,54 @@
                 "Shelby0": "I can't believe I am about to be married!$h",
                 "Shelby1": "I hope I don't get cold feet"
             }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Skye",
+            "FromFile": "assets/SkyeSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Skye",
+            "FromFile": "assets/SkyePortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Skye",
+            "FromFile": "assets/SkyeDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueSkye",
+            "FromFile": "assets/SkyeMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Skye",
+            "FromFile": "assets/SkyeSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Skye": "adult/rude/shy/negative/female/datable//Town/spring 23/Shelby 'friend'/BusStop 21 7/Skye"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402/This is nice!/815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Skye0": "I can't believe I am about to be married!$h",
+                "Skye1": "I hope I don't get cold feet"
+            }
         }
     ]
 }
