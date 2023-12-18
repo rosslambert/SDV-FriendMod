@@ -2,13 +2,25 @@
 This mod adds Ross and his friends into the game of Stardew Valley. 
 
 ## Plans
-* By 0.1.0 I would like to include many of my friends to some degree, including Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, Dylan, and potentially others to come
 * Figure out where the heck these guys are going to live in the game. The idea of adding a whole new AREA is pretty scary, so they'll probably just live in other villagers' houses.
 * By 0.2.0 Do some sprite work, even if it's really bad. Anything is better than a bunch of Abigail clones.
-* Make some schedules. I love the idea of a book club in the library, and maybe a board game group or DnD group (just like real life)
+* Make some schedules. I love the idea of a book club in the library, and maybe a board game group or DnD group
 * Make some dialogue. 
+* Have them send stuff in the mail with friendship
+* Consider adding events, but that seems daunting
 
 ## Updates
+
+### V 0.1.0
+* Added Jacob, Ana, and Dylan to the game. They all spawn at the bus stop. Their birthdays are Winter 19, Spring 3, and Spring 21 respectively.
+* Finished Kurtis's, Jacob's, Ana's, and Dylan's likes/dislikes. At least, for now.
+* Added some unique dialogue for Ross, and changed his schedule for mondays in Spring.
+* Updated Ross's, David's, and Zech's sprites. They just kinda glide around and always face the camera.
+
+
+### V 0.0.7
+* Added Kurtis to the game. He spawns at the bus stop. His birthday is Summer 19.
+* (Still need to adjust his likes and dislikes, portrait)
 
 ### V 0.0.6
 * Added Skye to the game. They spawn at the bus stop. Unfortunately this game adheres to the gender binary, so Skye is currently listed as "female" in the game code, by necessity.

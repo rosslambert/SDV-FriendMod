@@ -239,6 +239,198 @@
                 "Skye0": "I can't believe I am about to be married!$h",
                 "Skye1": "I hope I don't get cold feet"
             }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Kurtis",
+            "FromFile": "assets/KurtisSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Kurtis",
+            "FromFile": "assets/KurtisPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Kurtis",
+            "FromFile": "assets/KurtisDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueKurtis",
+            "FromFile": "assets/KurtisMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Kurtis",
+            "FromFile": "assets/KurtisSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Kurtis": "adult/polite/outgoing/positive/male/datable//Town/summer 19/Shelby 'friend'/BusStop 21 8/Kurtis"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Kurtis": "Whoa! This is awesome!/618 62 426 597/Thanks! This is nice.//This is awful!//I'd rather you just call me a slur.//Werk// "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Kurtis0": "I can't believe I am about to be married!$h",
+                "Kurtis1": "I hope I don't get cold feet"
+            }
+        }, 
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Jacob",
+            "FromFile": "assets/JacobSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Jacob",
+            "FromFile": "assets/JacobPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Jacob",
+            "FromFile": "assets/JacobDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueJacob",
+            "FromFile": "assets/JacobMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Jacob",
+            "FromFile": "assets/JacobSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Jacob": "adult/polite/outgoing/positive/male/datable//Town/winter 19/Zech 'brother'/BusStop 21 9/Jacob"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Jacob": "By the gods! This gift is fantastic!/64 459 376/Thanks for the gift!/552/Oh. Cool, I guess./84/This is a terrible gift!/86/Thanks./-79 395 348 -75/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Jacob0": "I can't believe I am about to be married!$h",
+                "Jacob1": "I hope I don't get cold feet"
+            }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Ana",
+            "FromFile": "assets/AnaSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Ana",
+            "FromFile": "assets/AnaPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Ana",
+            "FromFile": "assets/AnaDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueAna",
+            "FromFile": "assets/AnaMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Ana",
+            "FromFile": "assets/AnaSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Ana": "adult/rude/outgoing/positive/female/datable//Town/spring 3/Zech 'brother'/BusStop 21 10/Ana"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Ana": "Holy frick! This is awesome!/254 66 418 563/Thanks, my dude!/-75/What the heck is this?/404 420 422 851 395 614 346/What the frick. What the actual frick./303 205/Thanks./348 -75/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Ana0": "I can't believe I am about to be married!$h",
+                "Ana1": "I hope I don't get cold feet"
+            }
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Characters/Dylan",
+            "FromFile": "assets/DylanSprites.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Dylan",
+            "FromFile": "assets/DylanPortraits.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Dylan",
+            "FromFile": "assets/DylanDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueDylan",
+            "FromFile": "assets/DylanMarriageDialogue.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Dylan",
+            "FromFile": "assets/DylanSchedule.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Dylan": "adult/polite/neutral/neutral/male/datable//Town/spring 21/Skye 'partner'/BusStop 21 11/Dylan"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Dylan": "Holy Hell! This is great! Thank you!/832/Thanks, man!/546/Yo, what did you just give me?/300/Let me be real here. This gift sucks./420/Thanks./-79/ "
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Dylan0": "I can't believe I am about to be married!$h",
+                "Dylan1": "I hope I don't get cold feet"
+            }
         }
     ]
 }
