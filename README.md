@@ -11,6 +11,11 @@ This mod adds Ross and his friends into the game of Stardew Valley.
 
 ## Updates
 
+### V 0.1.1
+* Altered multiple scheduled routes. For example, Ross goes to the library on mondays for book club, and he goes to the saloon on fridays.
+* Gave daily dialogue for Ross.
+* Altered other dialogue.
+
 ### V 0.1.0
 * Added Jacob, Ana, and Dylan to the game. They all spawn at the bus stop. Their birthdays are Winter 19, Spring 3, and Spring 21 respectively.
 * Finished Kurtis's, Jacob's, Ana's, and Dylan's likes/dislikes. At least, for now.

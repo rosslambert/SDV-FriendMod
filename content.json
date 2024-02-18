@@ -30,14 +30,14 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Ross": "adult/polite/outgoing/positive/male/datable//Town/spring 17/David 'boyfriend'/BusStop 19 4/Ross"
+                "Ross": "adult/polite/outgoing/positive/male/datable//Town/spring 17/David 'boyfriend'/HarveyRoom 11 9/Ross"
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Ross": "Oh my gosh! This is a great gift!/227 728 636 70 459/Thanks! This is lit!/-6 -79 815 446/Oh... uh... thanks, I guess./903/This frigging sucks./204/Thanks!/-5/ "
+                "Ross": "Oh my gosh! This is a great gift!/227 728 636 70 459 98/Thanks! This is lit!/-6 -79 815 446 97 99/Oh... uh... thanks, I guess./903/This frigging sucks./204/Thanks!/-5 96/ "
             }
         },
         {
@@ -78,7 +78,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "David": "adult/neutral/neutral/neutral/male/datable//Town/spring 16/Ross 'boyfriend'/BusStop 19 5/David"
+                "David": "adult/neutral/neutral/neutral/male/datable//Town/spring 16/Ross 'boyfriend'/HarveyRoom 12 9/David"
             }
         },
         {
