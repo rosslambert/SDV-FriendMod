@@ -494,6 +494,24 @@
             "Entries": {
                 "Dylan": "Dear @,^  This is a pineapple. It's your problem now.^   -Dylan  %item object 832 1 %%[#]A Gift From Dylan"
             }
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13",
+            "Entries": {
+                "Set-Up_additionalCharacters": "Ross 30 76 right/David 31 76 left/Zech 24 70 down/Shelby 23 71 right/Skye 44 60 left/Kurtis 26 68 left/Jacob 25 71 left/Ana 26 62 up/Dylan 43 60 right",
+                "Ross": "My money's on Jas.#$b#I think she has it in her to win.#$b#She's been training for this moment.",
+                "David": "I wonder who paints the eggs.",
+                "Zech": "It's pretty cool that our community comes together for events like this.",
+                "Shelby": "I'm concerned about how long Ana's been at that buffet.#$b#Last year she went into an egg coma.",
+                "Shelby_2": "I swear, if Ana goes into another egg-induced coma...",
+                "Skye": "The grass is still all dewy from this morning.#$b#It's going to be a soggy egg hunt.",
+                "Kurtis": "Aren't eggs like a symbol of rebirth?#$b#Someone could make a religion out of this.",
+                "Jacob": "My, what a lovely day!#$b#Perfect day for an egg hunt.",
+                "Ana": "If there's one day of the year to eat eggs, it's today.#$b#I bet you I can finish that whole plate.",
+                "Dylan": "I'm just glad I get the day off of work today."
+            }
         }
     ]
 }

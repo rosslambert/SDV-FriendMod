@@ -17,8 +17,21 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
     * Dylan:    4/28 daily dialogue
 * Consider adding events
 * Rainy day dialogue
+* Festivals
+    * ~~Egg Hunt~~
+    * Flower Dance
+    * Luau
+    * Dance of the Jellies
+    * Fair
+    * Spookfest
+    * Ice Fishing
+    * Winter's Eve
+* Night market pathing and stuff
 
 ## Updates
+
+### V 0.2.1
+* Everyone appears in the egg hunt with proper dialogue
 
 ### V 0.2.0
 * Everyone has sprites! Are they good sprites? Eh. Do they all have animations? Heck no! They can't even all turn to the left and right. But hey, it's something!
