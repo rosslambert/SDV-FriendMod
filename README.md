@@ -1,18 +1,33 @@
 # SDV-FriendMod
-This mod adds Ross and his friends into the game of Stardew Valley. 
+This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs are: Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan.
 
 ## Plans
 * Figure out where the heck these guys are going to live in the game. The idea of adding a whole new AREA is pretty scary, so they'll probably just live in other villagers' houses.
-* By 0.2.0 Do some sprite work, even if it's really bad. Anything is better than a bunch of Abigail clones.
 * Make some schedules. I love the idea of a book club in the library, and maybe a board game group or DnD group
-* Make some dialogue. 
-* Consider adding events, but that seems daunting
+* By V 0.3.0, finish all the daily dialogue.
+* Dialogue 21% (55/252)
+    * Ross:     28/28 daily dialogue
+    * David:    10/28 daily dialogue
+    * Zech:     3/28 daily dialogue
+    * Shelby:   2/28 daily dialogue
+    * Skye:     1/28 daily dialogue
+    * Kurtis:   5/28 daily dialogue
+    * Jacob:    1/28 daily dialogue
+    * Ana:      1/28 daily dialogue
+    * Dylan:    4/28 daily dialogue
+* Consider adding events
+* Rainy day dialogue
 
 ## Updates
+
+### V 0.2.0
+* Everyone has sprites! Are they good sprites? Eh. Do they all have animations? Heck no! They can't even all turn to the left and right. But hey, it's something!
+* Updated a few dialogue lines.
 
 ### V 0.1.2
 * Added letters that come in the mail from each person. The likelihood of getting a letter in the mail is correlated with friendship, just like it is with all NPCs. All new NPCs send gifts with their letters.
 * Updated Ana's sprites. She can look up and to the left and right! Still no walking animation though lol.
+* Updated Dylan's sprites, too.
 * Updated some of David's daily dialogue.
 
 ### V 0.1.1
