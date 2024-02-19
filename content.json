@@ -48,6 +48,13 @@
                 "Ross1": "I hope I don't get cold feet"
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Ross": "Hey there, @!^I made some mead! I hope you like it!  ^Your friend,^   -Ross %item object 459 1 %%[#]A Gift From Ross"
+            }
+        },
 
         {
             "Action": "Load",
@@ -94,6 +101,13 @@
             "Entries": {
                 "David0": "I can't believe I am about to be married!$h",
                 "David1": "I hope I don't get cold feet"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "David": "Dear @,^I made some cold brew, and I wanted to share some with you. ^Sincerely,^   -David %item object 395 4 %%[#]A Gift From David"
             }
         },
 
@@ -144,6 +158,13 @@
                 "Zech1": "I hope I don't get cold feet"
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Zech": "Hey @,^I was out on a hike and, well, I got a little carried away. Here are some of my excess berries. ^Thinking of you,^   -Zech %item object 296 20 410 20 %%[#]A Gift From Zech"
+            }
+        },
 
         {
             "Action": "Load",
@@ -190,6 +211,13 @@
             "Entries": {
                 "Shelby0": "I can't believe I am about to be married!$h",
                 "Shelby1": "I hope I don't get cold feet"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Shelby": "Dearest farmer,^  You've been a good friend. I want you to have this. ^Sincerement,^   -Shelby %item object 348 1 418 1 %%[#]A Gift From Shelby"
             }
         },
 
@@ -240,6 +268,13 @@
                 "Skye1": "I hope I don't get cold feet"
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Skye": "Yo, farmer!^ I found this while exploring the mines.^ Yeah, I explore the mines sometimes.^ It's not a big deal or anything.^ ^Best,^   -Skye <3 %item object 60 1 767 2 107 1 122 1 %%[#]A Gift From Skye"
+            }
+        },
 
         {
             "Action": "Load",
@@ -288,6 +323,13 @@
                 "Kurtis1": "I hope I don't get cold feet"
             }
         }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Kurtis": "Hi^ I want you to have this.^Thank you for being such a good friend,^   -Kurtis %item object 62 1 386 5 %%[#]A Gift From Kurtis"
+            }
+        },
 
         {
             "Action": "Load",
@@ -334,6 +376,13 @@
             "Entries": {
                 "Jacob0": "I can't believe I am about to be married!$h",
                 "Jacob1": "I hope I don't get cold feet"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Jacob": "Hey man,^ I got something for you so you can start brewing stuff on your own. I hope you like it!^You're the best,^   -Jacob %item bigobject 12 %%[#]A Gift From Jacob"
             }
         },
 
@@ -384,6 +433,13 @@
                 "Ana1": "I hope I don't get cold feet"
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Ana": "My man!^ Take this. And don't say I never did anything for ya!^Later,^   -Ana B) %item object 586 1 254 1 709 15 %%[#]A Gift From Ana"
+            }
+        },
 
         {
             "Action": "Load",
@@ -430,6 +486,13 @@
             "Entries": {
                 "Dylan0": "I can't believe I am about to be married!$h",
                 "Dylan1": "I hope I don't get cold feet"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "Dylan": "Dear @,^  This is a pineapple. It's your problem now.^   -Dylan  %item object 832 1 %%[#]A Gift From Dylan"
             }
         }
     ]

@@ -6,10 +6,14 @@ This mod adds Ross and his friends into the game of Stardew Valley.
 * By 0.2.0 Do some sprite work, even if it's really bad. Anything is better than a bunch of Abigail clones.
 * Make some schedules. I love the idea of a book club in the library, and maybe a board game group or DnD group
 * Make some dialogue. 
-* Have them send stuff in the mail with friendship
 * Consider adding events, but that seems daunting
 
 ## Updates
+
+### V 0.1.2
+* Added letters that come in the mail from each person. The likelihood of getting a letter in the mail is correlated with friendship, just like it is with all NPCs. All new NPCs send gifts with their letters.
+* Updated Ana's sprites. She can look up and to the left and right! Still no walking animation though lol.
+* Updated some of David's daily dialogue.
 
 ### V 0.1.1
 * Altered multiple scheduled routes. For example, Ross goes to the library on mondays for book club, and he goes to the saloon on fridays.
