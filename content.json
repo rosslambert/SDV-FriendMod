@@ -140,7 +140,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Zech": "adult/polite/outgoing/neutral/male/datable//Town/fall 1/Shelby 'wife'/BusStop 19 6/Zech"
+                "Zech": "adult/polite/outgoing/neutral/male/datable//Town/fall 1/Shelby 'wife'/ElliottHouse 8 8/Zech"
             }
         },
         {
@@ -195,7 +195,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Shelby": "adult/polite/neutral/positive/female/datable//Town/winter 16/Zech 'husband'/BusStop 21 6/Shelby"
+                "Shelby": "adult/polite/neutral/positive/female/datable//Town/winter 16/Zech 'husband'/ElliottHouse 5 8/Shelby"
             }
         },
         {
@@ -415,7 +415,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Ana": "adult/rude/outgoing/positive/female/datable//Town/spring 3/Zech 'brother'/BusStop 21 10/Ana"
+                "Ana": "adult/rude/outgoing/positive/female/datable//Town/spring 3/Zech 'brother'/HaleyHouse 5 20/Ana"
             }
         },
         {

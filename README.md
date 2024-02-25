@@ -3,19 +3,8 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Plans
 * Figure out where the heck these guys are going to live in the game. The idea of adding a whole new AREA is pretty scary, so they'll probably just live in other villagers' houses.
-* Make some schedules. I love the idea of a book club in the library, and maybe a board game group or DnD group
-* By V 0.3.0, finish all the daily dialogue.
-* Daily Dialogue 92% (232/252)
-    * Ross:     28/28 daily dialogue
-    * David:    28/28 daily dialogue
-    * Zech:     28/28 daily dialogue
-    * Shelby:   28/28 daily dialogue
-    * Skye:     28/28 daily dialogue
-    * Kurtis:   19/28 daily dialogue
-    * Jacob:    28/28 daily dialogue
-    * Ana:      28/28 daily dialogue
-    * Dylan:    17/28 daily dialogue
-* Consider adding events
+* By V 0.4.0, finish the daily schedules.
+* Consider adding heart events
 * Rainy day dialogue
 * Festivals
     * ~~Egg Hunt~~
@@ -31,6 +20,12 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Modify facial expressions in dialogue
 
 ## Updates
+
+### V 0.3.0
+* Finished daily dialogue for all NPCs.
+* Changed schedules. Schedules are currently very bugged.
+* Changed Zech' and Shelby's spawn locations to Elliot's house. Changed Ana's spawn to Haley's house.
+* Created a book club meeting in the museum on Mondays for Ross, Shelby, Jacob, and Ana.
 
 ### V 0.2.2
 * Created more daily dialogue
