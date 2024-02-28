@@ -1,6 +1,12 @@
 {
-  "rain": "1740 Saloon 22 18 0/2300 HarveyRoom 12 9 2",
+  "rain": "1740 Saloon 22 18 2/2300 HarveyRoom 12 9 2",
+  "spring_Mon": "900 Beach 50 21 2/1500 Beach 19 24 2/1800 HarveyRoom 12 9 2",
   "spring_Tue": "940 Forest 110 99 2/1500 Saloon 22 18 0/2030 HarveyRoom 12 9 2",
+  "spring_Wed": "1100 Town 56 68 3/1500 HarveyRoom 12 9 2",
+  "spring_Thu": "1100 Town 56 68 3/1500 HarveyRoom 12 9 2",
+  "spring_Fri": "1740 Saloon 22 18 2/2300 HarveyRoom 12 9 2",
+  "spring_Sat": "a1200 Forest 94 80 2/a1700 Forest 21 97 2/1900 HarveyRoom 12 9 2",
+  "spring_Sun": "1100 Town 56 68 3/1500 HarveyRoom 12 9 2",
   "Fri": "1450 Saloon 22 18 0/030 HarveyRoom 12 9 2",
-  "spring": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 Town 73 54 2/1630 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3 abigail_sleep"
+  "spring": "1100 Town 56 68 3/1500 HarveyRoom 12 9 2"
 }

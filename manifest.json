@@ -1,7 +1,7 @@
 {
     "Name": "[CP] FriendMod",
     "Author": "Ross Lambert",
-    "Version": "0.3.0",
+    "Version": "0.3.1",
     "Description": "This mod puts Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan into the game.",
     "UniqueID": "RossLambert.FM",
     "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks

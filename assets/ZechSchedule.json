@@ -1,13 +1,13 @@
 {
-  "rain": "1130 SeedShop 13 29 1/1400 Town 45 102 2/1800 HarveyRoom 19 7 0",
-  "spring_6": "1000 HaleyHouse 5 23 0/2000 HarveyRoom 19 7 0",
-  "spring_Mon": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Tue": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Wed": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Thu": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Fri": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Sat": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring_Sun": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
+  "rain": "840 Beach 28 36 2/1700 Saloon 5 22 1/2200 ElliottHouse 8 8 2",
+  "spring_6": "1000 HaleyHouse 6 20 2/2000 ElliottHouse 8 8 2",
+  "spring_Mon": "800 Forest 52 34 3/1800 ElliottHouse 8 8 2",
+  "spring_Tue": "800 Forest 52 34 3/1800 ElliottHouse 8 8 2",
+  "spring_Wed": "800 Forest 40 41 2/1700 ElliottHouse 8 8 2",
+  "spring_Thu": "800 Forest 52 34 3/1800 ElliottHouse 8 8 2",
+  "spring_Fri": "840 Beach 28 36 2/1700 Saloon 5 22 1/2200 ElliottHouse 8 8 2",
+  "spring_Sat": "1100 ArchaeologyHouse 15 17 3/1730 ElliottHouse 8 8 2",
+  "spring_Sun": "800 Mountain 28 24 2/1800 ElliottHouse 8 8 2",
   "summer_Mon": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
   "summer_Tue": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
   "summer_Wed": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
@@ -29,5 +29,5 @@
   "winter_Fri": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
   "winter_Sat": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
   "winter_Sun": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
-  "spring": "800 SeedShop 39 5 0/830 SeedShop 34 5 0"
+  "spring": "800 Forest 52 34 3/1800 ElliottHouse 8 8 2"
 }

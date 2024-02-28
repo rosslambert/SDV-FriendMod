@@ -18,8 +18,12 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Night market pathing and stuff
 * More portraits and facial expressions
 * Modify facial expressions in dialogue
+* Have Ross and Shelby visit Caroline more
 
 ## Updates
+
+### V 0.3.1
+* Set Ross's, David's, and Zech's weekly schedules in Spring.
 
 ### V 0.3.0
 * Finished daily dialogue for all NPCs.
