@@ -250,7 +250,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Skye": "adult/rude/shy/negative/female/datable//Town/spring 23/Shelby 'friend'/BusStop 21 7/Skye"
+                "Skye": "adult/rude/shy/negative/female/datable//Town/spring 23/Dylan 'fiance'/AdventureGuild 7 5/Skye"
             }
         },
         {
@@ -305,7 +305,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Kurtis": "adult/polite/outgoing/positive/male/datable//Town/summer 19/Shelby 'friend'/BusStop 21 8/Kurtis"
+                "Kurtis": "adult/polite/outgoing/positive/male/datable//Town/summer 19/Shelby 'friend'/WizardHouse 9 20/Kurtis"
             }
         },
         {
@@ -360,7 +360,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Jacob": "adult/polite/outgoing/positive/male/datable//Town/winter 19/Zech 'brother'/BusStop 21 9/Jacob"
+                "Jacob": "adult/polite/outgoing/positive/male/datable//Town/winter 19/Zech 'brother'/LeahHouse 11 10/Jacob"
             }
         },
         {
@@ -470,7 +470,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Dylan": "adult/polite/neutral/neutral/male/datable//Town/spring 21/Skye 'partner'/BusStop 21 11/Dylan"
+                "Dylan": "adult/polite/neutral/neutral/male/datable//Town/spring 21/Skye 'partner'/AdventureGuild 8 5/Dylan"
             }
         },
         {

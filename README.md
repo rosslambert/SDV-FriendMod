@@ -22,8 +22,15 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Updates
 
+### V 0.3.2
+* Set Shelby's and Skye's daily schedules in Spring.
+* Changed Skye's and Dylan's spawn locations to the Adventure Guild.
+* Changed Kurtis's spawn location to the Wizard Tower.
+* Changed Jacob's spawn location to Leah's House.
+* Fixed a line of broken dialogue for Ana.
+
 ### V 0.3.1
-* Set Ross's, David's, and Zech's weekly schedules in Spring.
+* Set Ross's, David's, and Zech's daily schedules in Spring.
 
 ### V 0.3.0
 * Finished daily dialogue for all NPCs.
