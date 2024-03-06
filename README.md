@@ -2,7 +2,6 @@
 This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs are: Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan.
 
 ## Plans
-* Figure out where the heck these guys are going to live in the game. The idea of adding a whole new AREA is pretty scary, so they'll probably just live in other villagers' houses.
 * By V 0.4.0, finish the daily schedules.
 * Consider adding heart events
 * Rainy day dialogue
@@ -19,8 +18,15 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * More portraits and facial expressions
 * Modify facial expressions in dialogue
 * Have Ross and Shelby visit Caroline more
+* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
+* Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
+* Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday.
 
 ## Updates
+
+### V 0.3.3
+* Set Kurtis's, Jacob's, Ana's, and Dylan's daily schedules in Spring. Now everyone has schedules for Spring! Yay!
+* Changed Ross's, David's, Shelby's, Skye's, and Kurtis's intro dialogues.
 
 ### V 0.3.2
 * Set Shelby's and Skye's daily schedules in Spring.
