@@ -26,14 +26,22 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
 * Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday. Currently behavior on Spring 6th is very broken.
 * Make art and special dialogue for dancing at the flower dance.
+* Improve all sprites.
 
 ## Updates
+
+### V 0.3.6
+* Changed the name of the file as it appears in Vortex to "Ross's Friend Mod".
+* Gave Ross's sprites full 360 capabilities. That just leaves David and Zech that can't turn their bodies.
+* Gave Skye heterochromia. It just fits them. I can't explain it.
+* Fixed the Dance of the Moonlight Jellies. NPCs should appear like normal now.
 
 ### V 0.3.5
 * Added a janky walking animation for Dylan, only when he walks left to right. It's... an improvement?
 * Created a smiling portrait for Dylan. It should be automatically used in some situations, such as liked gifts.
 * On Summer 1st, all new NPCs take a trip to the desert via the bus.
 * Fixed some situations where NPCs weren't facing the right directions.
+* Version 0.3.5b adds mod update capability on the Nexus.
 
 ### V 0.3.4
 * Inserted NPCs into Flower Dance, Luau, and Dance of the Moonlight Jellies.
