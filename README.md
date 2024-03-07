@@ -1,6 +1,8 @@
 # SDV-FriendMod
 This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs are: Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan.
 
+[Github page here](https://github.com/rosslambert/SDV-FriendMod)
+
 ## Plans
 * By V 0.4.0, finish the daily schedules.
 * Consider adding heart events
@@ -20,10 +22,16 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Have Ross and Shelby visit Caroline more
 * Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
 * Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
-* Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday.
+* Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday. Currently behavior on Spring 6th is very broken.
 * Make art and special dialogue for dancing at the flower dance.
 
 ## Updates
+
+### V 0.3.5
+* Added a janky walking animation for Dylan, only when he walks left to right. It's... an improvement?
+* Created a smiling portrait for Dylan. It should be automatically used in some situations, such as liked gifts.
+* On Summer 1st, all new NPCs take a trip to the desert via the bus.
+* Fixed some situations where NPCs weren't facing the right directions.
 
 ### V 0.3.4
 * Inserted NPCs into Flower Dance, Luau, and Dance of the Moonlight Jellies.
