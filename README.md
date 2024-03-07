@@ -2,6 +2,7 @@
 This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs are: Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan.
 
 [Github page here](https://github.com/rosslambert/SDV-FriendMod)
+[Nexus page here](https://www.nexusmods.com/stardewvalley/mods/20460)
 
 ## Plans
 * By V 0.4.0, finish the daily schedules.
