@@ -7,9 +7,9 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Rainy day dialogue
 * Festivals
     * ~~Egg Hunt~~
-    * Flower Dance
-    * Luau
-    * Dance of the Jellies
+    * ~~Flower Dance~~
+    * ~~Luau~~
+    * ~~Dance of the Moonlight Jellies~~
     * Fair
     * Spookfest
     * Ice Fishing
@@ -21,8 +21,13 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
 * Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
 * Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday.
+* Make art and special dialogue for dancing at the flower dance.
 
 ## Updates
+
+### V 0.3.4
+* Inserted NPCs into Flower Dance, Luau, and Dance of the Moonlight Jellies.
+* Copied everyone's spring schedules to the other seasons. This may cause some things to break, since some environments change depending on season.
 
 ### V 0.3.3
 * Set Kurtis's, Jacob's, Ana's, and Dylan's daily schedules in Spring. Now everyone has schedules for Spring! Yay!
