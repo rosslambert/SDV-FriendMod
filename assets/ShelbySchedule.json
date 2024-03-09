@@ -1,7 +1,8 @@
 {
-  "rain": "930 Forest 59 26 2/1700 Saloon 6 22 3/2200 ElliottHouse 5 8 1",
-  "spring_6": "1000 HaleyHouse 5 23 0/2000 ElliottHouse 5 8 1",
+  "spring_6": "1000 HaleyHouse 5 20 2/1250 HaleyHouse 19 16 0/1400 HaleyHouse 5 20 2/1950 ElliottHouse 5 8 1",
   "summer_1": "610 BusStop 15 11 3/1000 Desert 9 10 2/1900 ElliottHouse 5 8 1",
+  "winter_16": "700 Beach 22 19 2/800 Sunroom 6 6 2/1030 12 27 3/1230 Town 7 93 2/1540 Beach 22 20 2/1700 Beach 10 37 1/1900 Beach 25 36 2/2110 Beach 42 36 0/2320 Beach 45 24 2/050 ElliottHouse 5 8 1",
+  "rain": "930 Forest 59 26 2/1700 Saloon 6 22 3/2200 ElliottHouse 5 8 1",
   "spring_Mon": "900 ArchaeologyHouse 22 4 2/1400 ElliottHouse 5 8 1",
   "spring_Tue": "1000 BusStop 17 18 0/1100 BusStop 19 20 0",
   "spring_Wed": "800 Forest 41 41 2/1700 ElliottHouse 5 8 1",

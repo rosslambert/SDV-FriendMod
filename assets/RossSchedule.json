@@ -1,7 +1,8 @@
 {
-  "rain": "1130 ArchaeologyHouse 17 5 0/1640 Saloon 23 18 1/010 HarveyRoom 19 7 2",
   "spring_6": "1000 HaleyHouse 5 23 0/2000 HarveyRoom 19 7 0",
   "summer_1": "610 BusStop 12 11 up/1000 Desert 6 12 2/1900 HarveyRoom 19 7 2",
+  "winter_15": "830 ArchaeologyHouse 21 5 1/1400 Town 39 57 2/1700 Beach 14 39 0/2130 Beach 41 35 0/000 HarveyRoom 19 7 2",
+  "rain": "1130 ArchaeologyHouse 17 5 0/1640 Saloon 23 18 1/010 HarveyRoom 19 7 2",
   "spring_Mon": "830 ArchaeologyHouse 21 5 1/1400 Town 46 32 2/1900 HarveyRoom 19 7 0",
   "spring_Tue": "1100 SeedShop 16 29 3/1510 HarveyRoom 21 7 0/1700 Town 29 101 2/2000 HarveyRoom 19 7 2",
   "spring_Wed": "1000 Forest 71 50 2/1600 HarveyRoom 19 7 2",

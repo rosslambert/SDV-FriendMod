@@ -10,24 +10,34 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 ### Recommended Mods
 * [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day
-    * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) This lets you modify "Show Birthdays" mod.
+    * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
 * By V 0.4.0, finish the daily schedules.
-* Consider adding heart events
+* Heart events
 * Rainy day dialogue
-* Night market pathing and stuff
 * More portraits and facial expressions
 * Modify facial expressions in dialogue
 * Have Ross and Shelby visit Caroline more
 * Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
 * Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
-* Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday. Currently behavior on Spring 6th is very broken.
 * Make art and special dialogue for dancing at the flower dance.
 * Improve all sprites.
 * During the Dance of the Moonlight Jellies, Zech disappears in the cutscene because the player stands at his location. So, uh, fix that at some point.
 
 ## Updates
+
+### V 0.3.8
+* Added schedules for the Night Market:
+    * Ross, David, and Kurtis visit on Winter 15th
+    * Shelby, Jacob, and Dylan visit on Winter 16th
+    * Zech, Skye, and Ana visit on Winter 17th
+* De-prioritized rainy-day schedules. Basically, if an NPC has a specific schedule for that date, like the night market, then the NPC prioritizes that over their rainy day schedule. Not entirely sure if I should start forcing people to go to book club and board game club on rainy days. Currently they are not forced to go.
+* Helped Jacob AGAIN with getting to book club on time.
+* Fixed schedule behavior for Spring 6th. On Spring 6th, Ross, Zech, Shelby, Jacob, and Ana have a party at Haley's house.
+* Added a dialogue line for Ana that tells the player about the party. The dialogue plays on the 3rd, which is Ana's actual birthday.
+* David now visits the Adventure guild on Wednesdays in Summer and Fall.
+* Skye and Dylan now don't leave the Adventure Guild on Spring 1st-Spring 4th. This is to prevent them walking through the boulder blocking the mines on year 1. Unfortunately this behavior continues for all years.
 
 ### V 0.3.7
 * Helped Jacob get to book club faster on Mondays.
