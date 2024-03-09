@@ -541,7 +541,7 @@
                 "Skye": "I'm going to beat this drum so hard.",
                 "Kurtis": "Heck yeah! Get it, girl!",
                 "Jacob": "It looks so good!#$b#Don't muck it up!",
-                "Ana": "This soup sounds like a terrible idea.#$b#Imagine all the terrible things you can put in the soup!#$b#Vanilla extract? Baking powder? Cocoa powder?#$b#Wait, those are all ingredients to make chocolate cake.",
+                "Ana": "This soup sounds like a terrible idea.#$b#Imagine all the terrible things you can put into the soup!#$b#Vanilla extract? Baking powder? Cocoa powder?#$b#Wait, those are all ingredients to make chocolate cake.",
                 "Dylan": "Emily's really got some moves!"
             }
         },
@@ -559,6 +559,71 @@
                 "Jacob": "The water is so calm tonight.#$b#Freaky.",
                 "Ana": "These jellyfish are beautiful.#$b#I vow to paint them from memory later.#$b#Art imitates life, and all that.",
                 "Dylan": "Any minute now..."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "Entries": {
+                "Set-Up_additionalCharacters": "Ross 32 73 left/David 38 77 left/Zech 24 64 up/Shelby 62 67 left/Skye 41 62 up/Kurtis 49 88 down/Jacob 28 34 up/Ana 57 68 right/Dylan 31 73 right",
+                "Ross": "Just one more round on orange.#$b#I swear, this will be the big winner!#$e#Wait...#$b#I'm out of tokens already.",
+                "David": "Look at these weapons!#$b#I'm more of an épée guy, myself.",
+                "Zech": "Just one more try! I know I can get the high score!",
+                "Shelby": "Big birbs.",
+                "Skye": "Marnie's stand is really impressive!#$e#I hope she wins this year.",
+                "Kurtis": "She told me that I'm going to die soon.#$e#I want my money back and I hate it here.",
+                "Jacob": "Mmmm. Borger.",
+                "Ana": "Oh no. Shelby has climbed into the chicken enclosure again.#$e#She just really loves birds.",
+                "Dylan": "I'm telling you, man. You need to bet on green every time!",
+                "Jas": "Why does that lady get to pet the birds and not me?"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "Entries": {
+                "Set-Up_additionalCharacters": "Ross 27 19 right/David 13 16 left/Zech 10 29 down/Shelby 40 30 right/Skye 33 11 right/Kurtis 23 27 left/Jacob 36 15 right/Ana 22 48 right/Dylan 24 69 down",
+                "Ross": "David! DAVID!#$b#Dangit. I've lost sight of him.#$e#We were supposed to be doing this together!",
+                "David": "What does this mean?#$e#I feel like I'm really close to getting it.",
+                "Zech": "I'm just going in circles, aren't I?",
+                "Shelby": "It's got my foot!#$b#You're going to have to push past me.#$e#Don't worry about me. I'm a lost cause.",
+                "Skye": "Boo!#$e#Did I scare you?#$b#I heard you coming around the corner.#$e#How'd I get here?#$b#I just jumped over the hedge.#$e#I miiiight be stuck here now.",
+                "Kurtis": "What she said.#$e#I cannot handle this right now.",
+                "Jacob": "Huh... whuh?#$b#How long have I been here?#$e#I'm losing track of time.",
+                "Ana": "No way, man. I am NOT going in there!#$b#I do NOT do well with scary stuff!",
+                "Dylan": "I don't know who brought this pumpkin pie, but it's delicious!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "Entries": {
+                "Set-Up_additionalCharacters": "Ross 81 31 left/David 80 26 down/Zech 80 31 down/Shelby 48 29 left/Skye 61 25 down/Kurtis 61 33 down/Jacob 68 16 up/Ana 67 21 up/Dylan 62 25 down",
+                "Ross": "Does %pet enjoy the cold weather?#$b#Pets can be the funniest things.",
+                "David": "I'm about to pelt Zech with a snowball.",
+                "Zech": "It's nice to hang out with all the other villagers.#$b#Festivals are so much fun!#$b#I feel like nothing bad is going to happen.",
+                "Shelby": "The forest looks so different in the winter.#$e#It's so quiet out here.",
+                "Skye": "I claim this igloo as my own.#$b#You are not allowed inside!",
+                "Kurtis": "I could really go for some hot cocoa.",
+                "Jacob": "I'm really digging Leah's sexy mermaid sculpture.",
+                "Ana": "Is no one else seeing how amazing this is?!#$b#Robin is building a freaking castle!#$b#Out of ice!#$b#Like a fully detailed castle!#$b#You can see hundreds of individual ice-bricks!#$e#Just look at her go.",
+                "Dylan": "Skye and I built this igloo together.#$b#You can go inside if you want."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "Entries": {
+                "Set-Up_additionalCharacters": "Ross 25 67 down/David 24 67 down/Zech 22 71 right/Shelby 23 72 up/Skye 36 59 down/Kurtis 27 73 up/Jacob 24 74 up/Ana 31 72 up/Dylan 37 60 left",
+                "Ross": "I made a green bean casserole!#$b#Nobody's touched it, though...",
+                "David": "I brought my own peppermint mocha.#$b#Even on a day like today, I'm going to have my midday coffee!",
+                "Zech": "Ooftah. I'm stuffed...#$b#But I want thirds...",
+                "Shelby": "I have gift-giving down to a science.",
+                "Skye": "I'm freezing out here!#$b#I should have brought a coat!",
+                "Kurtis": "What are you hoping to get as a present?#$b#Hold on, let me feel your aura.#$e#I'm sensing that you want %favorite.#$b#Am I right?",
+                "Jacob": "I could listen to Gus for hours.#$b#He's so knowledgeable!",
+                "Ana": "Look at all those decorations and gifts!#$b#I'm so PUMPED!#$b#And I KNOW that Haley's going to love what I got for her!",
+                "Dylan": "I'm so ready for all this snow to melt.#$b#I was not built for this weather.#$e#I feel like my nose is going to fall off."
             }
         }
     ]

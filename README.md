@@ -5,19 +5,17 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 [Nexus page here](https://www.nexusmods.com/stardewvalley/mods/20460)
 
+### Required Mods
+* [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
+* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+### Recommended Mods
+* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day
+    * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) This lets you modify "Show Birthdays" mod.
+
 ## Plans
 * By V 0.4.0, finish the daily schedules.
 * Consider adding heart events
 * Rainy day dialogue
-* Festivals
-    * ~~Egg Hunt~~
-    * ~~Flower Dance~~
-    * ~~Luau~~
-    * ~~Dance of the Moonlight Jellies~~
-    * Fair
-    * Spookfest
-    * Ice Fishing
-    * Winter's Eve
 * Night market pathing and stuff
 * More portraits and facial expressions
 * Modify facial expressions in dialogue
@@ -27,8 +25,16 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Have all NPCs meet up at Haley's house on Spring 6th to celebrate Ana's birthday. Currently behavior on Spring 6th is very broken.
 * Make art and special dialogue for dancing at the flower dance.
 * Improve all sprites.
+* During the Dance of the Moonlight Jellies, Zech disappears in the cutscene because the player stands at his location. So, uh, fix that at some point.
 
 ## Updates
+
+### V 0.3.7
+* Helped Jacob get to book club faster on Mondays.
+* Added the NPCs to the Valley Fair. Edited a line of Jas's dialogue in the fair.
+* Added the NPCs to Spirit's Eve.
+* Added the NPCs to the Ice Fishing Festival.
+* Added the NPCs to the Feast of the Winter Star. All NPCs are possible targets for the "secret gift exchange," and all NPCs can give you gifts for the exchange. All new NPCs are able to gift the tea set. 
 
 ### V 0.3.6
 * Changed the name of the file as it appears in Vortex to "Ross's Friend Mod".
