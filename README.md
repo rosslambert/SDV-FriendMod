@@ -13,16 +13,13 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
     * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
-* By V 0.4.0, finish the daily schedules.
+* By V 0.5.0 have everyone's sprites working properly.
 * Heart events
 * Rainy day dialogue
-* More portraits and facial expressions
-* Modify facial expressions in dialogue
 * Have Ross and Shelby visit Caroline more
 * Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
 * Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
 * Make art and special dialogue for dancing at the flower dance.
-* Improve all sprites.
 * During the Dance of the Moonlight Jellies, Zech disappears in the cutscene because the player stands at his location. So, uh, fix that at some point.
 
 ## Updates
