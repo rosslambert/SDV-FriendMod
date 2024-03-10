@@ -202,7 +202,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Shelby": "*gasp* This is amazing! Thank you so much!/395 208 62 348 418/Hey! This is a splendid gift!/-79 815 104 406/Oh... uh... thanks, I guess./257 281 851 420 422/Why did you give me this? Walk me through your thought process on that one./404/Thanks!/-5 -6/ "
+                "Shelby": "*gasp* This is amazing! Thank you so much!/395 208 62 348 418/Hey! This is a splendid gift!/-79 815 104 406/Oh... uh... thanks, I guess./257 281 851 420 422/Why did you give me this? Walk me through your thought process on that one./404/Thanks!/-5 -6 283/ "
             }
         },
         {
@@ -257,7 +257,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402/This is nice!/815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79/ "
+                "Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402/This is nice!/815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79 283/ "
             }
         },
         {
@@ -422,7 +422,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Ana": "Holy frick! This is awesome!/254 66 418 563/Thanks, my dude!/-75/What the heck is this?/404 420 422 851 395 614 346/What the frick. What the actual frick./303 205/Thanks./348 -75/ "
+                "Ana": "Holy frick! This is awesome!/254 66 418 563/Thanks, my dude!/-75/What the heck is this?/404 420 422 851 395 614 346/What the frick. What the actual frick./303 205/Thanks./348 -75 330/ "
             }
         },
         {

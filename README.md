@@ -27,6 +27,12 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Updates
 
+### V 0.4.0
+* All NPCs now have neutral, happy, and sad portraits.
+* Added facial expressions to MANY lines of dialogue, and slightly adjusted a few lines.
+* Holly is a neutral gift for Skye and Shelby.
+* Clay is a neutral gift for Ana.
+
 ### V 0.3.8
 * Added schedules for the Night Market:
     * Ross, David, and Kurtis visit on Winter 15th
