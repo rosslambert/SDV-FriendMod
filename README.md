@@ -13,13 +13,25 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
     * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
-* By V 0.5.0 have everyone's sprites working properly. Try to release this by 3/19!
-* Heart events
-* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I plan to fix this at some point.
-* Created NPCs are romanceable, but I have no idea what happens if you try to marry them. So we'll have to figure that out at some point.
-* Make art and special dialogue for dancing at the flower dance.
+* By V 1.0.0 have everyone's sprites working properly. Try to release this by 3/19!
+* Heart events? Maybe one per character.
+* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue.
+* New Help Wanted quests would be cool, but might not be easily done.
 
 ## Updates
+
+### V 0.4.2
+* Dylan now has travel animations in all directions. He looks like he's walking!
+* Skye now has travel animations in all directions. They look like they're floating! Or sinking into the earth or something. Look, animations are hard and I thought this was funny.
+* Ross, Shelby, and Kurtis now have "walking down" animations.
+* Fixed an error where Dylan's "walking right" animation was offset by a pixel, causing graphical glitches.
+* Daffodil is now a liked gift for Ross, David, Skye, Kurtis, and Ana.
+* Bread is now a liked gift for Skye.
+* Gave Shelby a Tuesday schedule in all seasons. (Whoops, I forgot.)
+* The added NPCs are no longer datable. Maybe this will be an added feature in the future.
+* Slightly edited Ross's location when he's in the saloon.
+* Slightly edited Kurtis's locations on Tuesdays.
+* Fixed a typo in Kurtis's neutral gift dialogue.
 
 ### V 0.4.1
 * Dylan now swings his arms when he walks horizontally. Sprite art is hard.
