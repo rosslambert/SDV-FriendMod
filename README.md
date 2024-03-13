@@ -14,11 +14,33 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Plans
 * By V 1.0.0 have everyone's sprites working properly. Try to release this by 3/19!
-* Heart events? Maybe one per character.
+    * Ross: 10/16 frames
+    * ~~David~~: Complete!
+    * Zech: 1/16 frames
+    * Shelby: 10/16 frames
+    * ~~Skye~~: Complete!
+    * ~~Kurtis~~: Complete!
+    * Jacob: 7/16 frames
+    * Ana: 7/16 frames
+    * ~~Dylan~~: Complete!
+* Heart events? Maybe one per character. I have no idea how to even start doing that.
 * Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue.
-* New Help Wanted quests would be cool, but might not be easily done.
+* New Help Wanted quests would be cool, but might not be easily done. Same with special orders, or just standard quests.
 
 ## Updates
+
+### V 0.4.3
+* David now has sprites that face all 4 directions.
+* David and Kurtis now have travel animations in all directions.
+* Jacob and Ana now have "walking down" animations.
+* Ross and Shelby now have "walking up" animations.
+* Gave facial expressions to festival dialogue.
+* Edited a line of the Wizard's dialogue to mention Kurtis as an apprentice.
+* Added a line of dialogue in winter for Zech in reference to his book "The Lords of 10ckn3g0r."
+* Edited Ana's happy portrait to make her mouth look less weird.
+* Changed everyone's rainy day schedule so they all go to the saloon.
+* Made David visit near the mines on Sundays and on some other days.
+* Slightly modified Ross's Thursday schedule.
 
 ### V 0.4.2
 * Dylan now has travel animations in all directions. He looks like he's walking!

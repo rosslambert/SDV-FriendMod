@@ -496,21 +496,33 @@
             }
         },
 
+
+
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Wizard",
+            "Entries": {
+                "Sun": "I'm glad to have found an apprentice in Kurtis. He has a keen sense for the arcane.#$e#Some day I will leave this mortal plane, but my arcane pursuits must continue. I trust Kurtis to carry on that task."
+            }
+        },
+
+
+
         {
             "Action": "EditData",
             "Target": "Data/Festivals/spring13",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 30 76 right/David 31 76 left/Zech 24 70 down/Shelby 23 71 right/Skye 44 60 left/Kurtis 26 68 left/Jacob 25 71 left/Ana 26 62 up/Dylan 43 60 right",
                 "Ross": "My money's on Jas.#$b#I think she has it in her to win.#$b#She's been training for this moment.",
-                "David": "I wonder who paints the eggs.",
-                "Zech": "It's pretty cool that our community comes together for events like this.",
-                "Shelby": "I'm concerned about how long Ana's been at that buffet.#$b#Last year she went into an egg coma.",
-                "Shelby_2": "I swear, if Ana goes into another egg-induced coma...",
+                "David": "I painted those eggs.#$b#The paint isn't edible.#$b#Don't get any ideas.$s",
+                "Zech": "It's pretty cool that our community comes together for events like this.$h",
+                "Shelby": "I'm concerned about how long Ana's been at that buffet.#$b#Last year she went into an egg coma.$s",
+                "Shelby_2": "I swear, if Ana goes into another egg-induced coma...$s",
                 "Skye": "The grass is still all dewy from this morning.#$b#It's going to be a soggy egg hunt.",
                 "Kurtis": "Aren't eggs like a symbol of rebirth?#$b#Someone could make a religion out of this.",
                 "Jacob": "My, what a lovely day!#$b#Perfect day for an egg hunt.",
-                "Ana": "If there's one day of the year to eat eggs, it's today.#$b#I bet you I can finish that whole plate.",
-                "Dylan": "I'm just glad I get the day off of work today."
+                "Ana": "If there's one day of the year to eat eggs, it's today.#$b#I bet you I can finish that whole plate!$h",
+                "Dylan": "I'm just glad I get the day off of work today.$h"
             }
         },
         {
@@ -519,13 +531,13 @@
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 21 41 right/David 22 41 left/Zech 9 38 up/Shelby 10 38 left/Skye 25 20 down/Kurtis 13 20 right/Jacob 1 39 right/Ana 26 37 right/Dylan 24 21 right",
                 "Ross": "I'm not much of a dancer.",
-                "David": "I'm trying to get Ross to dance with me.#$b#I've been known to set fires to dance floors.",
-                "Zech": "All the food is super cold.#$b#And that gelatin looks like it's about to fly away.",
-                "Shelby": "This festival is gorgeous!#$b#I appreciate all the effort everyone put into it!",
-                "Skye": "I'm staying as far away from the dancing as possible!",
-                "Kurtis": "Alex, why do you have to be like this? You're being so problematic right now.",
-                "Jacob": "So many pastel colors!#$b#I should have worn a nicer shirt.",
-                "Ana": "Man, I can't afford anything.",
+                "David": "I'm trying to get Ross to dance with me.#$b#I've been known to set fires to dance floors.$h",
+                "Zech": "All the food is super cold.$s#$b#And that gelatin looks like it's about to fly away.",
+                "Shelby": "This festival is gorgeous!$h#$b#I appreciate all the effort everyone put into it!$h",
+                "Skye": "I'm staying as far away from the dancing as possible!$s",
+                "Kurtis": "Alex, why do you have to be like this? You're being so problematic right now.$s",
+                "Jacob": "So many pastel colors!#$b#I should have worn a nicer shirt.$s",
+                "Ana": "Man, I can't afford anything.$s",
                 "Dylan": "I can't believe I was able to drag Skye here!#$b#I'm not so sure we're having a good time, though."
             }
         },
@@ -534,15 +546,15 @@
             "Target": "Data/Festivals/summer11",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 47 18 left/David 31 4 down/Zech 48 19 down/Shelby 29 9 left/Skye 24 14 down/Kurtis 18 9 left/Jacob 35 11 down/Ana 28 9 right/Dylan 11 11 right",
-                "Ross": "I burn so easily.",
-                "David": "It's not every day that you get to meet the governor!",
+                "Ross": "I burn so easily.$s",
+                "David": "It's not every day that you get to meet the governor!$h",
                 "Zech": "This meat has my full attention.",
-                "Shelby": "I think this stew is a lovely idea.#$b#There are so many diverse ingredients in this valley.#$b#It's going to make for a great soup!",
-                "Skye": "I'm going to beat this drum so hard.",
-                "Kurtis": "Heck yeah! Get it, girl!",
+                "Shelby": "I think this stew is a lovely idea.#$b#There are so many diverse ingredients in this valley.#$b#It's going to make for a great soup!$h",
+                "Skye": "I'm going to beat this drum so hard.$s",
+                "Kurtis": "Heck yeah! Get it, girl!$h",
                 "Jacob": "It looks so good!#$b#Don't muck it up!",
                 "Ana": "This soup sounds like a terrible idea.#$b#Imagine all the terrible things you can put into the soup!#$b#Vanilla extract? Baking powder? Cocoa powder?#$b#Wait, those are all ingredients to make chocolate cake.",
-                "Dylan": "Emily's really got some moves!"
+                "Dylan": "Emily's really got some moves!$h"
             }
         },
         {
@@ -550,11 +562,11 @@
             "Target": "Data/Festivals/summer28",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 34 36 down/David 35 36 down/Zech 28 36 down/Shelby 29 36 down/Skye 25 36 down/Kurtis 10 39 down/Jacob 14 38 right/Ana 19 24 down/Dylan 26 36 down",
-                "Ross": "This is going to be so beautiful!",
-                "David": "To witness bioluminescence tonight...#$b#We are very lucky!",
+                "Ross": "This is going to be so beautiful!$h",
+                "David": "To witness bioluminescence tonight...#$b#We are very lucky!$h",
                 "Zech": "What a relaxing night.#$b#Just listen to those waves.",
                 "Shelby": "What a magical evening.",
-                "Skye": "Bruh, when are these jellyfish going to show up?#$b#I want to see them!",
+                "Skye": "Bruh, when are these jellyfish going to show up?#$b#I want to see them!$s",
                 "Kurtis": "It's a little brisk tonight.#$b#Fall is almost here.",
                 "Jacob": "The water is so calm tonight.#$b#Freaky.",
                 "Ana": "These jellyfish are beautiful.#$b#I vow to paint them from memory later.#$b#Art imitates life, and all that.",
@@ -566,14 +578,14 @@
             "Target": "Data/Festivals/fall16",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 32 73 left/David 38 77 left/Zech 24 64 up/Shelby 62 67 left/Skye 41 62 up/Kurtis 49 88 down/Jacob 28 34 up/Ana 57 68 right/Dylan 31 73 right",
-                "Ross": "Just one more round on orange.#$b#I swear, this will be the big winner!#$e#Wait...#$b#I'm out of tokens already.",
+                "Ross": "Just one more round on orange.#$b#I swear, this will be the big winner!#$e#Wait...#$b#I'm out of tokens already.$s",
                 "David": "Look at these weapons!#$b#I'm more of an épée guy, myself.",
                 "Zech": "Just one more try! I know I can get the high score!",
-                "Shelby": "Big birbs.",
-                "Skye": "Marnie's stand is really impressive!#$e#I hope she wins this year.",
-                "Kurtis": "She told me that I'm going to die soon.#$e#I want my money back and I hate it here.",
-                "Jacob": "Mmmm. Borger.",
-                "Ana": "Oh no. Shelby has climbed into the chicken enclosure again.#$e#She just really loves birds.",
+                "Shelby": "Big birbs.$h",
+                "Skye": "Marnie's stand is really impressive!$h#$e#I hope she wins this year.",
+                "Kurtis": "She told me that I'm going to die soon.$s#$e#I want my money back and I hate it here.$s",
+                "Jacob": "Mmmm. Borger.$h",
+                "Ana": "Oh no. Shelby has climbed into the chicken enclosure again.$s#$e#She just really loves birds.",
                 "Dylan": "I'm telling you, man. You need to bet on green every time!",
                 "Jas": "Why does that lady get to pet the birds and not me?"
             }
@@ -583,15 +595,15 @@
             "Target": "Data/Festivals/fall27",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 27 19 right/David 13 16 left/Zech 10 29 down/Shelby 40 30 right/Skye 33 11 right/Kurtis 23 27 left/Jacob 36 15 right/Ana 22 48 right/Dylan 24 69 down",
-                "Ross": "David! DAVID!#$b#Dangit. I've lost sight of him.#$e#We were supposed to be doing this together!",
+                "Ross": "David! DAVID!#$b#Dangit. I've lost sight of him.$s#$e#We were supposed to be doing this together!$s",
                 "David": "What does this mean?#$e#I feel like I'm really close to getting it.",
-                "Zech": "I'm just going in circles, aren't I?",
-                "Shelby": "It's got my foot!#$b#You're going to have to push past me.#$e#Don't worry about me. I'm a lost cause.",
-                "Skye": "Boo!#$e#Did I scare you?#$b#I heard you coming around the corner.#$e#How'd I get here?#$b#I just jumped over the hedge.#$e#I miiiight be stuck here now.",
-                "Kurtis": "What she said.#$e#I cannot handle this right now.",
+                "Zech": "I'm just going in circles, aren't I?$s",
+                "Shelby": "It's got my foot!$s#$b#You're going to have to push past me.#$e#Don't worry about me. I'm a lost cause.",
+                "Skye": "Boo!$h#$e#Did I scare you?$h#$b#I heard you coming around the corner.$h#$e#How'd I get here?#$b#I just jumped over the hedge.#$e#I miiiight be stuck here now.$s",
+                "Kurtis": "What she said.#$e#I cannot handle this right now.$s",
                 "Jacob": "Huh... whuh?#$b#How long have I been here?#$e#I'm losing track of time.",
-                "Ana": "No way, man. I am NOT going in there!#$b#I do NOT do well with scary stuff!",
-                "Dylan": "I don't know who brought this pumpkin pie, but it's delicious!"
+                "Ana": "No way, man. I am NOT going in there!$s#$b#I do NOT do well with scary stuff!$s",
+                "Dylan": "I don't know who brought this pumpkin pie, but it's delicious!$h"
             }
         },
         {
@@ -601,13 +613,13 @@
                 "Set-Up_additionalCharacters": "Ross 81 31 left/David 80 26 down/Zech 80 31 down/Shelby 48 29 left/Skye 61 25 down/Kurtis 61 33 down/Jacob 68 16 up/Ana 67 21 up/Dylan 62 25 down",
                 "Ross": "Does %pet enjoy the cold weather?#$b#Pets can be the funniest things.",
                 "David": "I'm about to pelt Zech with a snowball.",
-                "Zech": "It's nice to hang out with all the other villagers.#$b#Festivals are so much fun!#$b#I feel like nothing bad is going to happen.",
+                "Zech": "It's nice to hang out with all the other villagers.#$b#Festivals are so much fun!$h#$b#I feel like nothing bad is going to happen.$h",
                 "Shelby": "The forest looks so different in the winter.#$e#It's so quiet out here.",
-                "Skye": "I claim this igloo as my own.#$b#You are not allowed inside!",
+                "Skye": "I claim this igloo as my own.#$b#You are not allowed inside!$s",
                 "Kurtis": "I could really go for some hot cocoa.",
-                "Jacob": "I'm really digging Leah's sexy mermaid sculpture.",
-                "Ana": "Is no one else seeing how amazing this is?!#$b#Robin is building a freaking castle!#$b#Out of ice!#$b#Like a fully detailed castle!#$b#You can see hundreds of individual ice-bricks!#$e#Just look at her go.",
-                "Dylan": "Skye and I built this igloo together.#$b#You can go inside if you want."
+                "Jacob": "I'm really digging Leah's sexy mermaid sculpture.$h",
+                "Ana": "Is no one else seeing how amazing this is?!#$b#Robin is building a freaking castle!$h#$b#Out of ice!$h#$b#Like a fully detailed castle!$h#$b#You can see hundreds of individual ice-bricks!$h#$e#Just look at her go.",
+                "Dylan": "Skye and I built this igloo together.#$b#You can go inside if you want.$h"
             }
         },
         {
@@ -615,15 +627,15 @@
             "Target": "Data/Festivals/winter25",
             "Entries": {
                 "Set-Up_additionalCharacters": "Ross 25 67 down/David 24 67 down/Zech 22 71 right/Shelby 23 72 up/Skye 36 59 down/Kurtis 27 73 up/Jacob 24 74 up/Ana 31 72 up/Dylan 37 60 left",
-                "Ross": "I made a green bean casserole!#$b#Nobody's touched it, though...",
-                "David": "I brought my own peppermint mocha.#$b#Even on a day like today, I'm going to have my midday coffee!",
-                "Zech": "Ooftah. I'm stuffed...#$b#But I want thirds...",
+                "Ross": "I made a green bean casserole!$h#$b#Nobody's touched it, though...$s",
+                "David": "I brought my own peppermint mocha.#$b#Even on a day like today, I'm going to have my midday coffee!$h",
+                "Zech": "Ooftah. I'm stuffed...$s#$b#But I want thirds...",
                 "Shelby": "I have gift-giving down to a science.",
-                "Skye": "I'm freezing out here!#$b#I should have brought a coat!",
-                "Kurtis": "What are you hoping to get as a present?#$b#Hold on, let me feel your aura.#$e#I'm sensing that you want %favorite.#$b#Am I right?",
-                "Jacob": "I could listen to Gus for hours.#$b#He's so knowledgeable!",
-                "Ana": "Look at all those decorations and gifts!#$b#I'm so PUMPED!#$b#And I KNOW that Haley's going to love what I got for her!",
-                "Dylan": "I'm so ready for all this snow to melt.#$b#I was not built for this weather.#$e#I feel like my nose is going to fall off."
+                "Skye": "I'm freezing out here!$s#$b#I should have brought a coat!$s",
+                "Kurtis": "What are you hoping to get as a present?#$b#Hold on, let me feel your aura.#$e#I'm sensing that you want %favorite.#$b#Am I right?$h",
+                "Jacob": "I could listen to Gus for hours.#$b#He's so knowledgeable!$h",
+                "Ana": "Look at all those decorations and gifts!$h#$b#I'm so PUMPED!$h#$b#And I KNOW that Haley's going to love what I got for her!$h",
+                "Dylan": "I'm so ready for all this snow to melt.#$b#I was not built for this weather.$s#$e#I feel like my nose is going to fall off.$s"
             }
         }
     ]
