@@ -13,21 +13,17 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
     * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
-* By V 1.0.0 have everyone's sprites working properly. Try to release this by 3/19!
-    * Ross: 10/16 frames
-    * ~~David~~: Complete!
-    * Zech: 1/16 frames
-    * Shelby: 10/16 frames
-    * ~~Skye~~: Complete!
-    * ~~Kurtis~~: Complete!
-    * Jacob: 7/16 frames
-    * Ana: 7/16 frames
-    * ~~Dylan~~: Complete!
 * Heart events? Maybe one per character. I have no idea how to even start doing that.
-* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue.
-* New Help Wanted quests would be cool, but might not be easily done. Same with special orders, or just standard quests.
+* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I cannot for the life of me get it to work.
 
 ## Updates
+
+### V 1.0.0
+* Added 9 new quests which appear in the mail. There is one new quest every season for the first nine seasons.
+* Zech now has brand new sprites with complete animations in all directions. He lost his hat, though. Sorry, Zech.
+* Ross, Shelby, Jacob, and Ana now have travel animations in all directions.
+* Bread is now a loved gift for Kurtis.
+* Slight alterations to David's, Skye's, and Kurtis's dialogues.
 
 ### V 0.4.3
 * David now has sprites that face all 4 directions.

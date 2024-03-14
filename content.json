@@ -312,7 +312,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Kurtis": "Whoa! This is awesome!/618 62 426 597/Thanks! This is nice./18/This is awful!//I'd rather you just call me a slur.//Werk.// "
+                "Kurtis": "Whoa! This is awesome!/618 62 426 597 216/Thanks! This is nice./18/This is awful!//I'd rather you just call me a slur.//Werk.// "
             }
         },
         {
@@ -493,6 +493,39 @@
             "Target": "Data/Mail",
             "Entries": {
                 "Dylan": "Dear @,^  This is a pineapple. It's your problem now.^   -Dylan  %item object 832 1 %%[#]A Gift From Dylan"
+            }
+        },
+
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "spring_20_1": "Dear @,^  Please bring me a geode. Just a standard geode. I love cracking those things open.^   -Dylan  %item quest 1200 %%[#]Dylan Mail Quest",
+                "summer_19_1": "Dear @,^  I would like a poppy. Could you grow one for me? Don't ask what it's for.^   -Jacob  %item quest 1201 %%[#]Jacob Mail Quest",
+                "fall_2_1": "Hey @,^  Give me cheese.^   -SKYE  %item quest 1202 %%[#]Skye Mail Quest",
+                "winter_9_1": "Dear @,^  Would you please bring me an aquamarine? I need it for an alchemical recipe.^   From,^     Kurtis  %item quest 1203 %%[#]Kurtis Mail Quest",
+                "spring_10_2": "Dear @,^  Could you bring me a bottle of wine? I'll pay you well for it.^Sincerely,^  Shelby  %item quest 1204 %%[#]Shelby Mail Quest",
+                "summer_13_2": "@,^  Could you get me a jasper? I know they're kind of hard to get, but I'll pay you. I need it for an art project.^ I hear you can find it in magma geodes.^   -Anastasia  %item quest 1205 %%[#]Ana Mail Quest",
+                "fall_3_2": "Hello, @^  I need 25 blackberries for a recipe. Can you get them to me?^   -Zech  %item quest 1206 %%[#]Zech Mail Quest",
+                "winter_11_2": "Dear @,^  This winter weather is making me crave a fish stew. Could you bring me one?^ Your friend,^   Ross  %item quest 1207 %%[#]Ross Mail Quest",
+                "spring_11_3": "Greetings,^  I require 100 coffee for a brew I'm working on. Please bring them to me at your earliest convenience. I will reward you handsomely.^   -David S.R.  %item quest 1208 %%[#]David Mail Quest"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Entries": {
+                "1200": "ItemDelivery/Dylan's Geode/Dylan wants you to bring him a geode so he can crack it open at Clint's./Bring Dylan 1 geode./Dylan 535/-1/400/-1/Cancellable/Hey, you got it! Thanks. Time to find out what's inside!$h",
+                "1201": "ItemDelivery/Jacob's Poppy Procurement/Jacob wants you to bring him a poppy. His reasons are his own./Bring Jacob a poppy./Jacob 376/-1/550/-1/Cancellable/Perfect! That's the good stuff. Here's the money. Take it.",
+                "1202": "ItemDelivery/Cheese for Skye/Skye demands cheese./Bring Skye a cow's cheese./Skye 424/-1/1199/-1/Cancellable/Thanks! I'm so going to revour this tonight.",
+                "1203": "ItemDelivery/Alchemical Aquamarine/Kurtis requires an aquamarine for an alchemy project./Bring Kurtis an aquamarine./Kurtis 62/-1/600/-1/Cancellable/Thanks! This is perfect. Here's your reward.$h",
+                "1204": "ItemDelivery/Wine for Shelby/Shelby will pay well for a bottle of wine./Bring Shelby a bottle of wine./Shelby 348/-1/5000/-1/Cancellable/Oh, this looks lovely! I'm excited to try it! Here's the money, as promised.$h",
+                "1205": "ItemDelivery/Jasper for Ana/Ana would like some jasper for an art project. You can find jasper in magma geodes./Bring Ana a jasper./Ana 563/-1/900/-1/Cancellable/Hey, this is nice! Here's your reward!$h",
+                "1206": "ItemDelivery/Blackberries for Zech/Zech wants some blackberries./Bring Zech 25 blackberries./Zech 410 25/-1/6000/-1/Cancellable/Thanks, man! Here's your reward.$h",
+                "1207": "ItemDelivery/Soup for Ross/Ross wants fish stew./Bring Ross a fish stew./Ross 728/-1/2100/-1/Cancellable/Oh my goodness, that looks so good! Here's the money. Give me that!$h",
+                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./David 395 100/-1/55000/-1/Cancellable/Whoa my god! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
             }
         },
 
