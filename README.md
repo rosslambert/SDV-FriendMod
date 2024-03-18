@@ -18,7 +18,15 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Updates
 
-### V 1.0.0
+### V 1.0.2
+* Replaced the fodder bundle in the community center. It appears in the bulletin board and is called the "Willamette Bundle." Only 6 of the 9 items are required, and the 9 items are each a reference to one of the new NPCs.
+* Changed Jacob's introduction dialogue.
+* Changed a line of Kurtis's dialogue.
+
+### V 1.0.1
+* Trimmed the filesize for the mod on the Nexus.
+
+### V 1.0.0 (FULL RELEASE!)
 * Added 9 new quests which appear in the mail. There is one new quest every season for the first nine seasons.
 * Zech now has brand new sprites with complete animations in all directions. He lost his hat, though. Sorry, Zech.
 * Ross, Shelby, Jacob, and Ana now have travel animations in all directions.

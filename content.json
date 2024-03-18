@@ -37,7 +37,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Ross": "Oh my gosh! This is a great gift!/227 728 636 70 459 98/Thanks! This is lit!/-6 -79 18 815 446 97 99/Oh... uh... thanks, I guess./903/This frigging sucks./204/Thanks!/-5 96/ "
+                "Ross": "Wowsers! This is a great gift!/227 728 636 70 459 98/Thanks! This is lit!/-6 -79 18 815 446 97 99/Oh... uh... thanks, I guess./903/This frigging sucks./204/Thanks!/-5 96/ "
             }
         },
         {
@@ -92,7 +92,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "David": "Oh my god! This is great! Thanks!/395 730 834 564 591 253/Thanks! I really like this!/18 423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
+                "David": "Whoa! This is great! Thanks!/395 730 834 564 591 253/Thanks! I really like this!/18 423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
             }
         },
         {
@@ -525,7 +525,7 @@
                 "1205": "ItemDelivery/Jasper for Ana/Ana would like some jasper for an art project. You can find jasper in magma geodes./Bring Ana a jasper./Ana 563/-1/900/-1/Cancellable/Hey, this is nice! Here's your reward!$h",
                 "1206": "ItemDelivery/Blackberries for Zech/Zech wants some blackberries./Bring Zech 25 blackberries./Zech 410 25/-1/6000/-1/Cancellable/Thanks, man! Here's your reward.$h",
                 "1207": "ItemDelivery/Soup for Ross/Ross wants fish stew./Bring Ross a fish stew./Ross 728/-1/2100/-1/Cancellable/Oh my goodness, that looks so good! Here's the money. Give me that!$h",
-                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./David 395 100/-1/55000/-1/Cancellable/Whoa my god! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
+                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./David 395 100/-1/55000/-1/Cancellable/Gott in Himmel! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
             }
         },
 
@@ -669,6 +669,21 @@
                 "Jacob": "I could listen to Gus for hours.#$b#He's so knowledgeable!$h",
                 "Ana": "Look at all those decorations and gifts!$h#$b#I'm so PUMPED!$h#$b#And I KNOW that Haley's going to love what I got for her!$h",
                 "Dylan": "I'm so ready for all this snow to melt.#$b#I was not built for this weather.$s#$e#I feel like my nose is going to fall off.$s"
+            }
+        },
+
+
+
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/JunimoNote",
+            "FromFile": "assets/JunimoNote.png"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Bundles",
+            "Entries": {
+                "Bulletin Board/35": "Willamette/BO 272 1/459 1 0 395 4 0 296 20 0 418 1 2 424 2 0 426 1 0 376 1 0 254 1 2 832 1 0/0/6"
             }
         }
     ]
