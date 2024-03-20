@@ -14,12 +14,36 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Plans
 * Heart events? Maybe one per character. I have no idea how to even start doing that.
-* Currently dialogue in the museum is broken. There is supposed to be special dialogue for Ross, Shelby, Jacob, and Ana in book club, and for Zech, Jacob, Dylan, Kurtis, and Skye for board game club. Currently it just plays normal daily dialogue. I cannot for the life of me get it to work.
+* New NPCs should probably react to the toxic rain.
+* Add dialogue for board game club (and fix Jacob's dialogue so he isn't talking about book club at board game club).
+* Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
+* Add in some custom phone calls? Could be fun.
+
+## Bugs
+* Special museum dialogue seems to sometimes not work for NPCs. Still testing and trying to figure this out.
+* Quests given by the new NPCs by mail no longer work. This appears to do with a change in how quests are coded into the game.
+* At the flower dance, Ross is seen standing on a bouquet. Move him 2 spaces to the right, and swap the directions David and Ross are facing.
+
 
 ## Updates
 
+### V 1.0.3
+* Actually uploaded Ana's new sprites this time, instead of just saying I did.
+* Converted to Stardew Valley 1.6
+    * Did NOT set content patcher format version to 2.0.0. Doing so breaks the game, but I plan on updating this once I can get it working.
+    * Altered quest format to work with update.
+* Modified/Added dialogue:
+    * 5 lines of Ana's.
+    * 4 lines of Ross's.
+    * 4 lines of Shelby's.
+    * 4 lines of Jacob's.
+    * 2 lines of Kurtis's.
+    * 1 line of Zech's.
+    * 1 line of David's
+* Changed Ross's position in the flower dance so he isn't trampling those new bouquets added in 1.6.
+
 ### V 1.0.2
-* Replaced the fodder bundle in the community center. It appears in the bulletin board and is called the "Willamette Bundle." Only 6 of the 9 items are required, and the 9 items are each a reference to one of the new NPCs.
+* Replaced the fodder bundle in the community center. It appears in the bulletin board and is called the "Willamette Bundle." Only 6 of the 9 items are required, and the 9 items are each a reference to one of the new NPCs. I do not believe that this is compatible with remixed bundles, but who knows?
 * Changed Jacob's introduction dialogue.
 * Changed a line of Kurtis's dialogue.
 

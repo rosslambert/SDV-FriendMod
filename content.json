@@ -1,5 +1,5 @@
 {
-    "Format": "1.30.0",
+    "Format": "1.30.4",
     "Changes": [
         {
             "Action": "Load",
@@ -517,15 +517,15 @@
             "Action": "EditData",
             "Target": "Data/Quests",
             "Entries": {
-                "1200": "ItemDelivery/Dylan's Geode/Dylan wants you to bring him a geode so he can crack it open at Clint's./Bring Dylan 1 geode./Dylan 535/-1/400/-1/Cancellable/Hey, you got it! Thanks. Time to find out what's inside!$h",
-                "1201": "ItemDelivery/Jacob's Poppy Procurement/Jacob wants you to bring him a poppy. His reasons are his own./Bring Jacob a poppy./Jacob 376/-1/550/-1/Cancellable/Perfect! That's the good stuff. Here's the money. Take it.",
-                "1202": "ItemDelivery/Cheese for Skye/Skye demands cheese./Bring Skye a cow's cheese./Skye 424/-1/1199/-1/Cancellable/Thanks! I'm so going to revour this tonight.",
-                "1203": "ItemDelivery/Alchemical Aquamarine/Kurtis requires an aquamarine for an alchemy project./Bring Kurtis an aquamarine./Kurtis 62/-1/600/-1/Cancellable/Thanks! This is perfect. Here's your reward.$h",
-                "1204": "ItemDelivery/Wine for Shelby/Shelby will pay well for a bottle of wine./Bring Shelby a bottle of wine./Shelby 348/-1/5000/-1/Cancellable/Oh, this looks lovely! I'm excited to try it! Here's the money, as promised.$h",
-                "1205": "ItemDelivery/Jasper for Ana/Ana would like some jasper for an art project. You can find jasper in magma geodes./Bring Ana a jasper./Ana 563/-1/900/-1/Cancellable/Hey, this is nice! Here's your reward!$h",
-                "1206": "ItemDelivery/Blackberries for Zech/Zech wants some blackberries./Bring Zech 25 blackberries./Zech 410 25/-1/6000/-1/Cancellable/Thanks, man! Here's your reward.$h",
-                "1207": "ItemDelivery/Soup for Ross/Ross wants fish stew./Bring Ross a fish stew./Ross 728/-1/2100/-1/Cancellable/Oh my goodness, that looks so good! Here's the money. Give me that!$h",
-                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./David 395 100/-1/55000/-1/Cancellable/Gott in Himmel! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
+                "1200": "ItemDelivery/Dylan's Geode/Dylan wants you to bring him a geode so he can crack it open at Clint's./Bring Dylan 1 geode./Dylan (O)535/-1/400/-1/true/Hey, you got it! Thanks. Time to find out what's inside!$h",
+                "1201": "ItemDelivery/Jacob's Poppy Procurement/Jacob wants you to bring him a poppy. His reasons are his own./Bring Jacob a poppy./Jacob (O)376/-1/550/-1/true/Perfect! That's the good stuff. Here's the money. Take it.",
+                "1202": "ItemDelivery/Cheese for Skye/Skye demands cheese./Bring Skye a cow's cheese./Skye (O)424/-1/1199/-1/true/Thanks! I'm so going to devour this tonight.",
+                "1203": "ItemDelivery/Alchemical Aquamarine/Kurtis requires an aquamarine for an alchemy project./Bring Kurtis an aquamarine./Kurtis (O)62/-1/600/-1/true/Thanks! This is perfect. Here's your reward.$h",
+                "1204": "ItemDelivery/Wine for Shelby/Shelby will pay well for a bottle of wine./Bring Shelby a bottle of wine./Shelby (O)348/-1/5000/-1/true/Oh, this looks lovely! I'm excited to try it! Here's the money, as promised.$h",
+                "1205": "ItemDelivery/Jasper for Ana/Ana would like some jasper for an art project. You can find jasper in magma geodes./Bring Ana a jasper./Ana (O)563/-1/900/-1/true/Hey, this is nice! Here's your reward!$h",
+                "1206": "ItemDelivery/Blackberries for Zech/Zech wants some blackberries./Bring Zech 25 blackberries./Zech (O)410 25/-1/6000/-1/true/Thanks, man! Here's your reward.$h",
+                "1207": "ItemDelivery/Soup for Ross/Ross wants fish stew./Bring Ross a fish stew./Ross (O)728/-1/2100/-1/true/Oh my goodness, that looks so good! Here's the money. Give me that!$h",
+                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./David (O)395 100/-1/55000/-1/true/Gott in Himmel! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
             }
         },
 
@@ -562,7 +562,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring24",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 21 41 right/David 22 41 left/Zech 9 38 up/Shelby 10 38 left/Skye 25 20 down/Kurtis 13 20 right/Jacob 1 39 right/Ana 26 37 right/Dylan 24 21 right",
+                "Set-Up_additionalCharacters": "Ross 23 41 left/David 22 41 right/Zech 9 38 up/Shelby 10 38 left/Skye 25 20 down/Kurtis 13 20 right/Jacob 1 39 right/Ana 26 37 right/Dylan 24 21 right",
                 "Ross": "I'm not much of a dancer.",
                 "David": "I'm trying to get Ross to dance with me.#$b#I've been known to set fires to dance floors.$h",
                 "Zech": "All the food is super cold.$s#$b#And that gelatin looks like it's about to fly away.",
