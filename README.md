@@ -9,10 +9,11 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 ### Recommended Mods
-* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day
+* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day (As of 3/20/2024 this is broken in 1.6).
     * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
+* Expect many upcoming changes to liked/disliked gifts and dialogue.
 * Heart events? Maybe one per character. I have no idea how to even start doing that.
 * New NPCs should probably react to the toxic rain.
 * Add dialogue for board game club (and fix Jacob's dialogue so he isn't talking about book club at board game club).
@@ -20,15 +21,17 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Add in some custom phone calls? Could be fun.
 
 ## Bugs
-* Special museum dialogue seems to sometimes not work for NPCs. Still testing and trying to figure this out.
-* Quests given by the new NPCs by mail no longer work. This appears to do with a change in how quests are coded into the game.
-* At the flower dance, Ross is seen standing on a bouquet. Move him 2 spaces to the right, and swap the directions David and Ross are facing.
+* Special museum dialogue seems to not work for all NPCs. Still testing and trying to figure this out.
 
 
 ## Updates
 
+### V 1.0.4
+* Actually upload Ana's walking animations, instead of just saying I did.
+* Edited 1 line of Skye's dialogue.
+* Changed how dialogue was coded in the museum and it's STILL not working properly. Excellent.
+
 ### V 1.0.3
-* Actually uploaded Ana's new sprites this time, instead of just saying I did.
 * Converted to Stardew Valley 1.6
     * Did NOT set content patcher format version to 2.0.0. Doing so breaks the game, but I plan on updating this once I can get it working.
     * Altered quest format to work with update.
