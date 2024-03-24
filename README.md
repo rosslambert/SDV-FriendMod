@@ -16,18 +16,26 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Expect many upcoming changes to liked/disliked gifts and dialogue.
 * Heart events? Maybe one per character. I have no idea how to even start doing that.
 * New NPCs should probably react to the toxic rain.
-* Add dialogue for board game club (and fix Jacob's dialogue so he isn't talking about book club at board game club).
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Add in some custom phone calls? Could be fun.
-* Implement NPCs in the new way for the 1.6 update.
+* Include compatibility with Ridgeside and SVE.
 
 ## Bugs
 * Special museum dialogue seems to not work for all NPCs. Still testing and trying to figure this out.
+* Jacob talks about book club books when he should be talking about board games on Saturdays in the museum.
 
+## Compatibility Issues (Ridgeside and SVE)
+* NPCs regularly glitch outside of their usual pathing when the map is a different size than it normally is. Particularly, Shelby regularly ends up in strange places, sometimes zooming across the screen, and Ross and Zech can get stuck in place.
+* Festivals can be pretty messed up! Especially Spirit's Eve.
 
 ## Updates
 
-### V 2.0.0
+### V 2.0.1
+* Changed the way that new NPCs are added to festivals. They should no longer overwrite NPCs from other mods, and should appear properly with all dialogue in 8 festivals.
+* Finally (Maybe? Hopefully?) fixed all of the dialogue for book club (museum on Mondays) and board game club (museum on Saturdays).
+* Added much dialogue for board game club (museum on Saturdays).
+
+### V 2.0.0 (Not compatible with previous versions of the mod)
 * Finalized converting to Stardew Valley 1.6 and set content patcher format version to 2.0.0.
 * Changed how characters are named internally. They are now 20460_[charactername]. This will fix compatibility issues where custom NPCs in other mods have the same names as the custom NPCs in my mod. This is not compatible with previous versions of the mod!
 * Changed some likes/dislikes

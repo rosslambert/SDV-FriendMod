@@ -107,7 +107,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -241,7 +240,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -375,7 +373,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -509,7 +506,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -643,7 +639,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -777,7 +772,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -911,7 +905,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -1045,7 +1038,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -1179,7 +1171,6 @@
                     "HiddenProfileEmoteFrameCount": 1,
                     "HiddenProfileEmoteFrameDuration": 200.0,
                     "FormerCharacterNames": [],
-                    "FestivalVanillaActorIndex": 1,
                     "CustomFields": null
                   }
             }
@@ -1203,7 +1194,8 @@
             "Action": "EditData",
             "Target": "Data/Mail",
             "Entries": {
-                "20460_Dylan": "Dear @,^  This is a pineapple. It's your problem now.^   -Dylan  %item object 832 1 %%[#]A Gift From 20460_Dylan"
+                "20460_Dylan": "Dear @,^  This is a pineapple. It's your problem now.^   -Dylan  %item object 832 1 %%[#]A Gift From 20460_Dylan",
+                "summer_22_1": "Dear @,^  I taped this piece of paper with your address on it to a pineapple and tried to mail it. Did it reach you well? Don't ask where I got the pineapple. I have my sources.^   -Dylan  %item object 832 1 %%[#]A Summer Pineapple From 20460_Dylan"
             }
         },
 
@@ -1256,7 +1248,6 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring13",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 30 76 right/David 31 76 left/Zech 24 70 down/Shelby 23 71 right/Skye 44 60 left/Kurtis 26 68 left/Jacob 25 71 left/Ana 26 62 up/Dylan 43 60 right",
                 "20460_Ross": "My money's on Jas.#$b#I think she has it in her to win.#$b#She's been training for this moment.",
                 "20460_David": "I painted those eggs.#$b#The paint isn't edible.#$b#Don't get any ideas.$s",
                 "20460_Zech": "It's pretty cool that our community comes together for events like this.$h",
@@ -1270,10 +1261,21 @@
             }
         },
         {
+        "Action": "EditData",
+        "Target": "Data/Festivals/spring13",
+        "TextOperations": [
+            {
+                "Operation": "Append",
+                "Target": ["Entries", "Set-Up_additionalCharacters"],
+                "Value": "20460_Ross 30 76 right/20460_David 31 76 left/20460_Zech 24 70 down/20460_Shelby 23 71 right/20460_Skye 44 60 left/20460_Kurtis 26 68 left/20460_Jacob 25 71 left/20460_Ana 26 62 up/20460_Dylan 43 60 right",
+                "Delimiter": "/"
+            }
+        ]
+        },
+        {
             "Action": "EditData",
             "Target": "Data/Festivals/spring24",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 23 41 left/David 22 41 right/Zech 9 38 up/Shelby 10 38 left/Skye 25 20 down/Kurtis 13 20 right/Jacob 1 39 right/Ana 26 37 right/Dylan 24 21 right",
                 "20460_Ross": "I'm not much of a dancer.",
                 "20460_David": "I'm trying to get Ross to dance with me.#$b#I've been known to set fires to dance floors.$h",
                 "20460_Zech": "All the food is super cold.$s#$b#And that gelatin looks like it's about to fly away.",
@@ -1287,9 +1289,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/spring24",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 23 41 left/20460_David 22 41 right/20460_Zech 9 38 up/20460_Shelby 10 38 left/20460_Skye 25 20 down/20460_Kurtis 13 20 right/20460_Jacob 1 39 right/20460_Ana 26 37 right/20460_Dylan 24 21 right",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/summer11",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 47 18 left/David 31 4 down/Zech 48 19 down/Shelby 29 9 left/Skye 24 14 down/Kurtis 18 9 left/Jacob 35 11 down/Ana 28 9 right/Dylan 11 11 right",
                 "20460_Ross": "I burn so easily.$s",
                 "20460_David": "It's not every day that you get to meet the governor!$h",
                 "20460_Zech": "This meat has my full attention.",
@@ -1303,9 +1316,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 47 18 left/20460_David 31 4 down/20460_Zech 48 19 down/20460_Shelby 29 9 left/20460_Skye 24 14 down/20460_Kurtis 18 9 left/20460_Jacob 35 11 down/20460_Ana 28 9 right/20460_Dylan 11 11 right",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/summer28",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 34 36 down/David 35 36 down/Zech 28 36 down/Shelby 29 36 down/Skye 25 36 down/Kurtis 10 39 down/Jacob 14 38 right/Ana 19 24 down/Dylan 26 36 down",
                 "20460_Ross": "This is going to be so beautiful!$h",
                 "20460_David": "To witness bioluminescence tonight...#$b#We are very lucky!$h",
                 "20460_Zech": "What a relaxing night.#$b#Just listen to those waves.",
@@ -1319,9 +1343,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 34 36 down/20460_David 35 36 down/20460_Zech 28 36 down/20460_Shelby 29 36 down/20460_Skye 25 36 down/20460_Kurtis 10 39 down/20460_Jacob 14 38 right/20460_Ana 19 24 down/20460_Dylan 26 36 down",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/fall16",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 32 73 left/David 38 77 left/Zech 24 64 up/Shelby 62 67 left/Skye 41 62 up/Kurtis 49 88 down/Jacob 28 34 up/Ana 57 68 right/Dylan 31 73 right",
                 "20460_Ross": "Just one more round on orange.#$b#I swear, this will be the big winner!#$e#Wait...#$b#I'm out of tokens already.$s",
                 "20460_David": "Look at these weapons!#$b#I'm more of an épée guy, myself.",
                 "20460_Zech": "Just one more try! I know I can get the high score!",
@@ -1336,9 +1371,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 32 73 left/20460_David 38 77 left/20460_Zech 24 64 up/20460_Shelby 62 67 left/20460_Skye 41 62 up/20460_Kurtis 49 88 down/20460_Jacob 28 34 up/20460_Ana 57 68 right/20460_Dylan 31 73 right",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/fall27",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 27 19 right/David 13 16 left/Zech 10 29 down/Shelby 40 30 right/Skye 33 11 right/Kurtis 23 27 left/Jacob 36 15 right/Ana 22 48 right/Dylan 24 69 down",
                 "20460_Ross": "David! DAVID!#$b#Dangit. I've lost sight of him.$s#$e#We were supposed to be doing this together!$s",
                 "20460_David": "What does this mean?#$e#I feel like I'm really close to getting it.",
                 "20460_Zech": "I'm just going in circles, aren't I?$s",
@@ -1352,9 +1398,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 27 19 right/20460_David 13 16 left/20460_Zech 10 29 down/20460_Shelby 40 30 right/20460_Skye 33 11 right/20460_Kurtis 23 27 left/20460_Jacob 36 15 right/20460_Ana 22 48 right/20460_Dylan 24 69 down",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/winter8",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 81 31 left/David 80 26 down/Zech 80 31 down/Shelby 48 29 left/Skye 61 25 down/Kurtis 61 33 down/Jacob 68 16 up/Ana 67 21 up/Dylan 62 25 down",
                 "20460_Ross": "Does %pet enjoy the cold weather?#$b#Pets can be the funniest things.",
                 "20460_David": "I'm about to pelt Zech with a snowball.",
                 "20460_Zech": "It's nice to hang out with all the other villagers.#$b#Festivals are so much fun!$h#$b#I feel like nothing bad is going to happen.$h",
@@ -1368,9 +1425,20 @@
         },
         {
             "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 81 31 left/20460_David 80 26 down/20460_Zech 80 31 down/20460_Shelby 48 29 left/20460_Skye 61 25 down/20460_Kurtis 61 33 down/20460_Jacob 68 16 up/20460_Ana 67 21 up/20460_Dylan 62 25 down",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "Action": "EditData",
             "Target": "Data/Festivals/winter25",
             "Entries": {
-                "Set-Up_additionalCharacters": "Ross 25 67 down/David 24 67 down/Zech 22 71 right/Shelby 23 72 up/Skye 36 59 down/Kurtis 27 73 up/Jacob 24 74 up/Ana 31 72 up/Dylan 37 60 left",
                 "20460_Ross": "I made a green bean casserole!$h#$b#Nobody's touched it, though...$s",
                 "20460_David": "I brought my own peppermint mocha.#$b#Even on a day like today, I'm going to have my midday coffee!$h",
                 "20460_Zech": "Ooftah. I'm stuffed...$s#$b#But I want thirds...",
@@ -1381,6 +1449,18 @@
                 "20460_Ana": "Look at all those decorations and gifts!$h#$b#I'm so PUMPED!$h#$b#And I KNOW that Haley's going to love what I got for her!$h",
                 "20460_Dylan": "I'm so ready for all this snow to melt.#$b#I was not built for this weather.$s#$e#I feel like my nose is going to fall off.$s"
             }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "20460_Ross 25 67 down/20460_David 24 67 down/20460_Zech 22 71 right/20460_Shelby 23 72 up/20460_Skye 36 59 down/20460_Kurtis 27 73 up/20460_Jacob 24 74 up/20460_Ana 31 72 up/20460_Dylan 37 60 left",
+                    "Delimiter": "/"
+                }
+            ]
         },
 
 
