@@ -34,6 +34,7 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Changed the way that new NPCs are added to festivals. They should no longer overwrite NPCs from other mods, and should appear properly with all dialogue in 8 festivals.
 * Finally (Maybe? Hopefully?) fixed all of the dialogue for book club (museum on Mondays) and board game club (museum on Saturdays).
 * Added much dialogue for board game club (museum on Saturdays).
+* Added a message that Dylan sends on 22nd of summer, year 1.
 
 ### V 2.0.0 (Not compatible with previous versions of the mod)
 * Finalized converting to Stardew Valley 1.6 and set content patcher format version to 2.0.0.
