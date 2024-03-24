@@ -1,8 +1,8 @@
 {
     "Name": "Ross's Friend Mod",
     "Author": "Ross Lambert",
-    "Version": "1.0.4",
-    "Description": "This mod puts Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan into the game.",
+    "Version": "2.0.0",
+    "Description": "This mod adds Ross, David, Zech, Shelby, Skye, Kurtis, Jacob, Ana, and Dylan.",
     "UniqueID": "RossLambert.FM",
     "UpdateKeys": [ "Nexus:20460" ],
     "ContentPackFor": {

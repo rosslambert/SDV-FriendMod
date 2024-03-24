@@ -19,12 +19,19 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Add dialogue for board game club (and fix Jacob's dialogue so he isn't talking about book club at board game club).
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Add in some custom phone calls? Could be fun.
+* Implement NPCs in the new way for the 1.6 update.
 
 ## Bugs
 * Special museum dialogue seems to not work for all NPCs. Still testing and trying to figure this out.
 
 
 ## Updates
+
+### V 2.0.0
+* Finalized converting to Stardew Valley 1.6 and set content patcher format version to 2.0.0.
+* Changed how characters are named internally. They are now 20460_[charactername]. This will fix compatibility issues where custom NPCs in other mods have the same names as the custom NPCs in my mod. This is not compatible with previous versions of the mod!
+* Changed some likes/dislikes
+* I expect many bugs with this update! The format changes might mess with quite a few things, including quests.
 
 ### V 1.0.4
 * Actually upload Ana's walking animations, instead of just saying I did.
