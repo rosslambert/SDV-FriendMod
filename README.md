@@ -9,7 +9,7 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 ### Recommended Mods
-* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day (As of 3/20/2024 this is broken in 1.6).
+* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day (As of 3/27/2024 this is broken in 1.6).
     * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
@@ -19,21 +19,33 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Add in some custom phone calls? Could be fun.
 * Include compatibility with Ridgeside and SVE.
+* Imclude additional NPCs, Kato, Sam, and Jackie.
+* Add more people to the saloon in Shelby's 5-heart event.
 
 ## Bugs
-* Special museum dialogue seems to not work for all NPCs. Still testing and trying to figure this out.
-* Jacob talks about book club books when he should be talking about board games on Saturdays in the museum.
-
-## Compatibility Issues (Ridgeside and SVE)
-* NPCs regularly glitch outside of their usual pathing when the map is a different size than it normally is. Particularly, Shelby regularly ends up in strange places, sometimes zooming across the screen, and Ross and Zech can get stuck in place.
-* Festivals can be pretty messed up! Especially Spirit's Eve.
+* Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
 
 ## Updates
+
+### V 2.0.2
+* Added an event on the beach when the player gets 2 hearts with Shelby.
+* Added an event in the Saloon when the player gets 5 hearts with Shelby.
+* Added an event in the forest when the player gets 5 hearts with Zech.
+* Added an event in the forest when the player gets 8 hearts with Shelby.
+* Fixed bugs related to NPC schedules at the bus stop due to a change in how the map works there, especially Shelby.
+* Fixed a typo in Ross's schedule that made him stand in a doorway all day on Sundays.
+* Added a secret dialogue with Shelby after reaching 8 hearts with her.
+* Added some new sprites, a new portrait, and a new animation for Shelby.
+* Changed some liked and disliked gifts.
+* Fixed the back of Zech's head when he's walking up so it doesn't twitch when he puts his left foot forward.
+* Changed where Dylan stands in Pierre's so he doesn't stand inside of Gus.
+* Fixed some of Ross's and Shelby's dialogue that wasn't triggering properly due to a typo.
 
 ### V 2.0.1
 * Changed the way that new NPCs are added to festivals. They should no longer overwrite NPCs from other mods, and should appear properly with all dialogue in 8 festivals.
 * Finally (Maybe? Hopefully?) fixed all of the dialogue for book club (museum on Mondays) and board game club (museum on Saturdays).
 * Added much dialogue for board game club (museum on Saturdays).
+* Added a message that Dylan sends on 22nd of summer, year 1.
 
 ### V 2.0.0 (Not compatible with previous versions of the mod)
 * Finalized converting to Stardew Valley 1.6 and set content patcher format version to 2.0.0.

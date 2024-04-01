@@ -1,6 +1,8 @@
 {
     "Format": "2.0.0",
     "Changes": [
+        //Character data
+        //-----Ross-----
         {
             "Action": "Load",
             "Target": "Characters/20460_Ross",
@@ -134,6 +136,8 @@
             }
         },
 
+        //-----David-----
+
         {
             "Action": "Load",
             "Target": "Characters/20460_David",
@@ -248,7 +252,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_David": "Whoa! This is great! Thanks!/395 730 834 564 591 253/Thanks! I really like this!/18 423 270/Thanks. I hate it./-6 199 -75/Get this out of my face./204/Thanks./-5 -79 303 342 344/ "
+                "20460_David": "Whoa! This is great! Thanks!/395 730 834 564 591 253/Thanks! I really like this!/18 124 423 270/Thanks. I hate it./-6 91 199 268 -75/Get this out of my face./204 272/Thanks./-5 -79 303 342 344/ "
             }
         },
         {
@@ -266,6 +270,8 @@
                 "20460_David": "Dear @,^I made some cold brew, and I wanted to share some with you. ^Sincerely,^   -David %item object 395 4 %%[#]A Gift From 20460_David"
             }
         },
+
+        //-----Zech-----
 
         {
             "Action": "Load",
@@ -400,6 +406,8 @@
             }
         },
 
+        //-----Shelby-----
+
         {
             "Action": "Load",
             "Target": "Characters/20460_Shelby",
@@ -514,7 +522,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Shelby": "*gasp* This is amazing! Thank you so much!/395 208 62 348 418/Hey! This is a splendid gift!/-79 815 104 406/Oh... uh... thanks, I guess./257 281 851 420 422/Why did you give me this? Walk me through your thought process on that one./404/Thanks!/-5 -6 283/ "
+                "20460_Shelby": "*gasp* This is amazing! Thank you so much!/395 208 62 348 418/Hey! This is a splendid gift!/-79 815 104 406/Oh... uh... thanks, I guess./257 281 851 420 422/Why did you give me this? Walk me through your thought process on that one./404/Thanks!/-5 -6 283 309 310 311/ "
             }
         },
         {
@@ -532,6 +540,8 @@
                 "20460_Shelby": "Dearest farmer,^  You've been a good friend. I want you to have this. ^Sincerement,^   -Shelby %item object 348 1 418 1 %%[#]A Gift From 20460_Shelby"
             }
         },
+
+        //-----Skye-----
 
         {
             "Action": "Load",
@@ -647,7 +657,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402 565/This is nice!/18 216 815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79 283/ "
+                "20460_Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402 565/This is nice!/18 107 123 216 815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79 283/ "
             }
         },
         {
@@ -665,6 +675,8 @@
                 "20460_Skye": "Yo, farmer!^ I found this while exploring the mines.^ Yeah, I explore the mines sometimes.^ It's not a big deal or anything.^ ^Best,^   -Skye <3 %item object 60 1 767 2 107 1 122 1 %%[#]A Gift From 20460_Skye"
             }
         },
+
+        //-----Kurtis-----
 
         {
             "Action": "Load",
@@ -780,7 +792,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Kurtis": "Whoa! This is awesome!/618 62 426 597 216/Thanks! This is nice./18/This is awful!//I'd rather you just call me a slur.//Werk.// "
+                "20460_Kurtis": "Whoa! This is awesome!/618 62 336 426 597/Thanks! This is nice./18 216 384/This is awful!//I'd rather you just call me a slur.//Werk.// "
             }
         },
         {
@@ -798,6 +810,8 @@
                 "20460_Kurtis": "Hi^ I want you to have this.^Thank you for being such a good friend,^   -Kurtis %item object 62 1 386 5 %%[#]A Gift From 20460_Kurtis"
             }
         },
+
+        //-----Jacob-----
 
         {
             "Action": "Load",
@@ -932,6 +946,8 @@
             }
         },
 
+        //-----Ana-----
+
         {
             "Action": "Load",
             "Target": "Characters/20460_Ana",
@@ -1046,7 +1062,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Ana": "Holy frick! This is awesome!/254 66 418 563/Thanks, my dude!/-75 18/What the heck is this?/404 420 422 851 395 614 346/What the frick. What the actual frick./303 205/Thanks./348 -75 330/ "
+                "20460_Ana": "Holy frick! This is awesome!/254 418 563/Thanks, my dude!/-75 18 116 169 392 586 709/What the heck is this?/404 420 422 851 395 614 346/What the frick. What the actual frick./303 205/Thanks./348 -75 330/ "
             }
         },
         {
@@ -1064,6 +1080,8 @@
                 "20460_Ana": "My man!^ Take this. And don't say I never did anything for ya!^Later,^   -Ana B) %item object 586 1 254 1 709 15 %%[#]A Gift From 20460_Ana"
             }
         },
+
+        //-----Dylan-----
 
         {
             "Action": "Load",
@@ -1199,7 +1217,7 @@
             }
         },
 
-
+        //Mail Quests
 
         {
             "Action": "EditData",
@@ -1232,7 +1250,7 @@
             }
         },
 
-
+        //Additional dialogue changes
 
         {
             "Action": "EditData",
@@ -1242,7 +1260,7 @@
             }
         },
 
-
+        //Festivals
 
         {
             "Action": "EditData",
@@ -1463,7 +1481,7 @@
             ]
         },
 
-
+        //Community Center Bundle Changes
 
         {
             "Action": "EditImage",
@@ -1475,6 +1493,55 @@
             "Target": "Data/Bundles",
             "Entries": {
                 "Bulletin Board/35": "Willamette/BO 272 1/459 1 0 395 4 0 296 20 0 418 1 2 424 2 0 426 1 0 376 1 0 254 1 2 832 1 0/0/6"
+            }
+        },
+
+        //Events
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Saloon",
+            "Entries": {
+                //5-heart event with Shelby
+                "2046001/f 20460_Shelby 1250/t 1600 2600/e 2046000": "Saloon1/14 16/farmer 100 100 0 20460_Shelby 11 21 2 20460_Zech 10 21 2 20460_Ana 9 22 1 20460_Skye 11 23 0 Gus 11 18 2 Emily 14 17 0 Elliott 5 20 3 Leah 2 20 1 Clint 19 23 3 Pam 7 18 1/skippable/pause 1000/warp farmer 14 24/playSound doorClose/pause 1000/advancedMove farmer false 0 -1 1 0 3 1000/pause 1000/speak 20460_Zech \"And then I said...#$b#If you hate that sap so much, why don't you just burn the whole forest down!$h\"/emote 20460_Skye 32 true/emote 20460_Ana 32/speak 20460_Skye \"Ha ha ha! You really can land a joke!$h\"/speak 20460_Ana \"Oh my Yoba, that was hilarious!$h#$b#Oh, golly guys. I think we've drunk quite a bit tonight.$s\"/speak 20460_Skye \"Whaaaaaaat? Noooooo. We're fine.#$b#Isn't that right, Shelby?$h\"/stopMusic/speak 20460_Shelby \"You can't say that about the forest!#$b#The forest is tranquil and beautiful and people need to stop tearing it down!\"/emote 20460_Skye 8 true/emote 20460_Ana 16 true/emote 20460_Zech 16 true/emote farmer 16/speak 20460_Skye \"What?\"/speak 20460_Ana \"Huh?$s\"/speak 20460_Zech \"Babe, where is this coming from?\"/speak 20460_Ana \"Yeah, what do you mean by that? Are you doin' alright, Shelbs?$s\"/speak 20460_Shelby \"Hahaha, yeah...$s#$b#I've had too much to drink.$s#$b#I have to go!$s\"/advancedMove 20460_Shelby false 3 0 0 2 1 1000/pause 2000/speak 20460_Shelby \"Pardon me, @.\"/pause 500/advancedMove 20460_Shelby false 0 1/advancedMove Emily false 0 1/pause 500/warp 20460_Shelby 1000 1000/playSound doorClose/emote 20460_Zech 16 true/emote 20460_Skye 8 true/emote 20460_Ana 16 true/emote farmer 8 true/emote Emily 8/pause 500/speak 20460_Zech \"Shelbs!\"/pause 1000/speak 20460_Zech \"I should go after her.\"/advancedMove 20460_Zech false 4 0 0 3/pause 1000/faceDirection 20460_Skye 1 true/pause 2000/warp 20460_Zech 1000 1000/playSound doorClose/pause 500/advancedMove Emily false 0 -1/pause 1500/speak 20460_Skye \"Oof.\"/end"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Beach",
+            "Entries": {
+                //2-heart event with Shelby
+                "2046000/f 20460_Shelby 500/d Mon/t 600 1200": "ocean/42 11/farmer 38 3 2 20460_Shelby 100 100 2/skippable/advancedMove farmer false 0 8 8 0 1 1000/pause 4500/warp 20460_Shelby 49 11/playSound doorClose/pause 2000/faceDirection 20460_Shelby 3 true/pause 1000/speak 20460_Shelby \"@!#$b#I was just leaving for the forest.\"/pause 1000/faceDirection 20460_Shelby 2 true/speak 20460_Shelby \"It seems like I'm always at the forest these days. It just... it's home to me.#$b#I mean...$s#$b#It feels like home to me.\"/faceDirection 20460_Shelby 3 true/speak 20460_Shelby \"Of course, my home is with Zech.\"/emote farmer 8/pause 2000/speak 20460_Shelby \"*Ahem*...$s#$b#I should be on my way.#$b#It was nice running into you.\"/advancedMove 20460_Shelby false -2 0 0 1 -5 0/pause 4000/end"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Forest",
+            "Entries": {
+                //8-heart event with Shelby
+                "2046002/f 20460_Shelby 2000/d Mon/t 600 1730/e 2046001": "Plums/48 27/farmer 53 27 2 20460_Shelby 48 27 3/skippable/advancedMove farmer false -3 0 3 1000/pause 4000/faceDirection 20460_Shelby 1 true/speak 20460_Shelby \"Oh, it's you!\"/pause 1500/faceDirection 20460_Shelby 3 true/speak 20460_Shelby \"You've been a good friend to me.#$b#I have something I need to tell you.#$b#Actually...$s#$b#It might be easier to just show you.\"/pause 1000/faceDirection 20460_Shelby 2 true/pause 3000/playSound shadowpeep/animate 20460_Shelby false true 350 16 17/jump farmer 8/emote farmer 16/speak 20460_Shelby \"Do not be alarmed!$3#$b#I am a korok.$3\"/pause 3000/speak 20460_Shelby \"Pretty crazy, right?$3\"/pause 1000/playSound shadowpeep/stopAnimation 20460_Shelby 0/pause 1000/faceDirection 20460_Shelby 1 true/pause 1000/speak 20460_Shelby \"Keep this secret between us, okay?\"/fade true/pause 1500/message \"Dang that's crazy\"/end",
+                //5-heart event with Zech
+                "2046004/f 20460_Zech 1250/t 1930 2500": "echos/48 27/farmer 50 29 3 20460_Zech 48 27 3/skippable/advancedMove farmer false -2 0 3 100/pause 3000/speak 20460_Zech \"Hey, @.\"/pause 2000/speak 20460_Zech \"This would be a great moment to say something impactful.#$b#Something deep.\"/pause 2000/question null \"Do you have any advice?#Be there for your friends.#Stay true to yourself.#Don't drink in excess.\"/speak 20460_Zech \"Hey, that's pretty good advice!$h\"/pause 1000/speak 20460_Zech \"Here, I can do you one better.#$b#This is my advice: consistency is the key to getting better.#$b#I stand my that.\"/pause 1500/speak 20460_Zech \"Oh, and never plan your day from bed!$h\"/faceDirection 20460_Zech 2 true/pause 500/speak 20460_Zech \"Thanks for chatting with me.$h#$b#This was a productive conversation. I feel like I know you a little better.\"/end"
+            }
+        },
+
+        //Animations
+
+        {
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "20460_shelby_korok": "16/16 16 16 17 17 17/17/Strings\\animationDescriptions:20460_shelby_korok_01"
+            }
+        },
+
+        //Animation Strings
+
+        {
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "20460_shelby_korok_01": "Wahaha! You found me![114]$3"
             }
         }
     ]
