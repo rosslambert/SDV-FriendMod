@@ -8,24 +8,33 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 ### Required Mods
 * [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
-### Recommended Mods
-* [Show birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) Lets you show multiple birthdays on the same day (As of 3/27/2024 this is broken in 1.6).
-    * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) Required for the "Show Birthdays" mod.
 
 ## Plans
-* Expect many upcoming changes to liked/disliked gifts and dialogue.
-* Heart events? Maybe one per character. I have no idea how to even start doing that.
-* New NPCs should probably react to the toxic rain.
+* At least one heart event per character. Version 2.1.0 will have plenty of heart events!
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Add in some custom phone calls? Could be fun.
-* Include compatibility with Ridgeside and SVE.
-* Imclude additional NPCs, Kato, Sam, and Jackie.
-* Add more people to the saloon in Shelby's 5-heart event.
+* Include special compatibility with Ridgeside and SVE.
+* Include additional NPCs, Kato, Sam, Jackie, and Shane.
 
 ## Bugs
 * Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
 
 ## Updates
+
+### V 2.0.3
+* Added dialogue for the green rain for all characters.
+* Changed the schedules for the green rain event for all characters.
+* Added Kurtis to the cutscene in which the player meets the wizard for the first time.
+* Added a book club event the first time you appear at the museum on a sunny Monday between 10am and 2pm after week 1.
+* Added a board game club event the first time you appear at the museum on a sunny Saturday between 1pm and 7pm.
+* Improved Kurtis's sprites so his neckerchief looks less like a dog collar and more like a neckerchief.
+* Ana now actually has her "art and wine" party with Leah and Shelby. Occurs on clear sundays on the beach in summer around 2pm if the bridge is repaired, so not something you'll run into too often.
+* Gave Shelby a better smiling portrait. Does it look weird? Yes. But it's more consistent with the other portraits.
+* Ana now has a "drawing" animation that she tends to use on Sundays.
+* Jacob now has a "sleepy" animation that he uses during book club.
+* Some minor changes to daily schedules.
+* Some minor changes to likes and dislikes.
+* Added placeholder dialogue for the resort for all characters. I still need to add proper dialogue later.
 
 ### V 2.0.2
 * Added an event on the beach when the player gets 2 hearts with Shelby.
