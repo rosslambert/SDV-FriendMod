@@ -15,11 +15,25 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Add in some custom phone calls? Could be fun.
 * Include special compatibility with Ridgeside and SVE.
 * Include additional NPCs, Kato, Sam, Jackie, and Shane.
+* Have clinic visits for each new NPC.
+* Make Kurtis visit Emily more.
+* Turn the desert excursion on Summer 1 into a dance party.
 
 ## Bugs
 * Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
 
 ## Updates
+
+### V 2.0.4
+* Created an event in town when the player gets 5 hearts with Ana, along with a follow-up event at the farm.
+* Created an event in town when the player gets 8 hearts with Ana, along with a follow-up event at the farm.
+* Created an event in the mountains when the player gets 5 hearts with Skye.
+* Created an event on the farm when the player gets 8 hearts with Skye.
+* Shelby now offers you something during her 8-heart event.
+* Moved Skye in the Flower Dance so that they are still accessible after the 1.6 update.
+* Small changes to Shelby's and Ross's dialogues.
+* (Untested) Added a random message from Ross on the telephone. Don't know how to forcibly trigger it, so I don't know if it's working properly.
+* Added 5 pieces of furniture to the game: "Ana's Painting" and "Ana's Cribbage Board" can only be obtained through Ana's 5- and 8-heart events. Two plushes can be obtained via Skye's 5- and 8-heart events. The shiny seed can be obtained by Shelby's 8-heart event.
 
 ### V 2.0.3
 * Added dialogue for the green rain for all characters.
@@ -34,7 +48,7 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Jacob now has a "sleepy" animation that he uses during book club.
 * Some minor changes to daily schedules.
 * Some minor changes to likes and dislikes.
-* Added placeholder dialogue for the resort for all characters. I still need to add proper dialogue later.
+* Added placeholder dialogue for the Ginger Island resort for all characters. I still need to add proper dialogue later.
 
 ### V 2.0.2
 * Added an event on the beach when the player gets 2 hearts with Shelby.
