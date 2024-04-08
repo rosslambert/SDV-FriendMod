@@ -11,6 +11,8 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Plans
 * At least one heart event per character. Version 2.1.0 will have plenty of heart events!
+    * Upcoming: Ross's, Jacob's, and Dylan's events
+* At some much later date, maybe refine the events that I added. Some of them are a little rough around the edges.
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Add in some custom phone calls? Could be fun.
 * Include special compatibility with Ridgeside and SVE.
@@ -23,6 +25,11 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
 
 ## Updates
+
+### V 2.0.5
+* Added an event in the mountains when the player gets 8 hearts with David.
+* Added a new sword: David's Epee.
+* Fixed Skye's 5-heart cutscene.
 
 ### V 2.0.4
 * Created an event in town when the player gets 5 hearts with Ana, along with a follow-up event at the farm.

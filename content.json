@@ -1575,7 +1575,9 @@
             "Target": "Data/Events/Mountain",
             "Entries": {
                 //5-heart event with Skye
-                "2046015/f 20460_Skye 1250/t 600 1300/w sunny": "continue/39 20/farmer 37 22 0 20460_Skye 39 18/skippable/move 20460_Skye 0 2 2 true/move farmer 2 0 0/pause 1500/jump 20460_Skye 8 true/jump farmer 8/speak 20460_Skye \"Oh my Yobus!\"/pause 1000/speak 20460_Skye \"Oh, hey. Fancy running into you here!$h\"/pause 1000/speak 20460_Skye \"I was just going out for my morning stroll.#$b#Hey! Let me tell you about this crazy dream I had.\"/fade/viewport 1000 1000/message \"Skye proceeds to tell you the craziest, most inappropriate story you've ever heard.\"/viewport 39 20/fade true/speak 20460_Skye \"And that's why I don't think I'll be eating corn for a while.#$b#Or maybe I'll be eating it MORE.$h#$b#Hahaha.$h\"/pause 1000/speak 20460_Skye \"It was nice talking to you.#$b#Hey, are you okay? You look a little pale...\"/end"
+                "2046015/f 20460_Skye 1250/t 600 1300/w sunny": "continue/39 20/farmer 37 22 0 20460_Skye 39 18 2/skippable/move 20460_Skye 0 2 2/move farmer 2 0 0/pause 1500/jump 20460_Skye 8 true/jump farmer 8/speak 20460_Skye \"Oh my Yobus!\"/pause 1000/speak 20460_Skye \"Oh, hey. Fancy running into you here!$h\"/pause 1000/speak 20460_Skye \"I was just going out for my morning stroll.#$b#Hey! Let me tell you about this crazy dream I had.\"/fade/viewport 1000 1000/pause 500/message \"Skye proceeds to tell you the craziest, most inappropriate story you've ever heard.\"/viewport 39 20/fade true/pause 1000/speak 20460_Skye \"And that's why I don't think I'll be eating corn for a while.#$b#Or maybe I'll be eating it MORE.$h#$b#Hahaha.$h\"/pause 1000/speak 20460_Skye \"It was nice talking to you.#$b#Hey, are you okay? You look a little pale...\"/end",
+                //8-heart event with David
+                "2046013/f 20460_David 2000": "continue/39 20/farmer 37 22 0 20460_David 39 18 2/skippable/pause 1500/speak 20460_David \"Going to the mines again?#$b#Here, I have something for you.#$b#Take this.[20460_DavidEpee]#$b#This weapon means a lot to me, but it looks like you could use it more than me.#$b#Don't worry about me. This blade has a twin that I can still use.$h\"/end"
             }
         },
 
@@ -1666,6 +1668,44 @@
                 "20460_PenguinPlushBig": "Big Penguin Plush/decor/2 2/2 1/1/5000/-1/{{i18n:PenguinPlushBig}}/0/Mods\\Ross.20460\\Skye_texture",
                 "20460_PenguinPlushSmall": "Small Penguin Plush/decor/1 1/1 1/1/2000/-1/{{i18n:PenguinPlushSmall}}/2/Mods\\Ross.20460\\Skye_texture"
             }
-        }
+        },
+
+        //Weapons
+
+        {
+            "LogName": "Load Texture",
+            "Action": "Load",
+            "Target": "Mods/Ross.20460/Weapon_texture",
+            "FromFile": "assets/WeaponArt.png"
+        },
+        {
+            "LogName": "Weapon Data",
+            "Action": "EditData",
+            "Target": "Data/Weapons",
+            "Entries": {
+                "20460_DavidEpee": {
+                    "Name": "David's Épée",
+                    "DisplayName": "{{i18n:DavidEpee}}",
+                    "Description": "{{i18n:DavidEpeeDescription}}",
+                    "MinDamage": 56,
+                    "MaxDamage": 66,
+                    "Knockback": 0.8,
+                    "Speed": 3,
+                    "Precision": 0,
+                    "Defense": 0,
+                    "Type": 0,
+                    "MineBaseLevel": -1,
+                    "MineMinLevel": -1,
+                    "AreaOfEffect": 2,
+                    "CritChance": 0.08,
+                    "CritMultiplier": 4,
+                    "CanBeLostOnDeath": false,
+                    "Texture": "Mods/Ross.20460/Weapon_texture",
+                    "SpriteIndex": 0,
+                    "Projectiles": null,
+                    "CustomFields": null
+                  }
+            }
+        },
     ]
 }
