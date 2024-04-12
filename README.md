@@ -11,25 +11,36 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 
 ## Plans
 * At least one heart event per character. Version 2.1.0 will have plenty of heart events!
-    * Upcoming: Ross's, Jacob's, and Dylan's events
+    * Upcoming: Jacob event
 * At some much later date, maybe refine the events that I added. Some of them are a little rough around the edges.
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
-* Add in some custom phone calls? Could be fun.
 * Include special compatibility with Ridgeside and SVE.
 * Include additional NPCs, Kato, Sam, Jackie, and Shane.
 * Have clinic visits for each new NPC.
-* Make Kurtis visit Emily more.
 * Turn the desert excursion on Summer 1 into a dance party.
 
-## Bugs
+## Known Bugs
 * Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
+* If you don't have the bridge on the beach built by Summer 7, Ana and Shelby will ford the river and walk to the other side anyway.
+* On Sundays in Fall, Ross may spend the evening staring at a bush. He is supposed to be looking AWAY from the bush.
 
 ## Updates
+
+### V 2.0.6
+* Created 2 events and a quest in the Wizard tower when the player gets 5 hearts with Kurtis.
+* Created an event on the beach when the player gets 2 hearts with Ross.
+* Created an event on the beach when the player gets 5 hearts with Dylan.
+* Added a new potion which can be crafted. Kurtis teaches the recipe after his 5-heart event.
+* Created an animation for Kurtis which he uses basically every day.
+* Big changes to likes and dislikes.
+* New sprite art for Ross.
+* Small changes to Kurtis's and Shelby's dialogues.
+* Slightly changed the appearance of David's Epee.
 
 ### V 2.0.5
 * Added an event in the mountains when the player gets 8 hearts with David.
 * Added a new sword: David's Epee.
-* Fixed Skye's 5-heart cutscene.
+* Fixed Skye's 5-heart cutscene so Skye appears properly.
 
 ### V 2.0.4
 * Created an event in town when the player gets 5 hearts with Ana, along with a follow-up event at the farm.

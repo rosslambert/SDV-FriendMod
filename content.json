@@ -657,7 +657,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402 565/This is nice!/18 107 123 216 815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79 283 Moss/ "
+                "20460_Skye": "This is great! Thanks, fam!/395 253 832 60 424 426 402 565/This is nice!/18 107 123 216 296 815/Bruh.//Bro. This sucks.//Thanks, bruh./-5 -6 -79 283 Moss/ "
             }
         },
         {
@@ -927,7 +927,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Jacob": "By the gods! This gift is fantastic!/64 459 376/Hey, this is great! Thanks, man!/552 167/Oh. Cool, I guess./84/This is a terrible gift!/86/Thanks./-79 395 348 -75/ "
+                "20460_Jacob": "By the gods! This gift is fantastic!/64 459 376 552 540/Hey, this is great! Thanks, man!/-12 167/Oh. Cool, I guess./84 567 568 569 571/This is a terrible gift!/86/Thanks./-79 395 348 -75/ "
             }
         },
         {
@@ -1197,7 +1197,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "20460_Dylan": "Holy Hell! This is great! Thank you!/832/Thanks, man!/546 535 536 537 749/Yo, what did you just give me?/300/Let me be real here. This gift sucks./420/Thanks./-79/ "
+                "20460_Dylan": "Holy Hell! This is great! Thank you!/832 749/Thanks, man!/546 535 536 537/Yo, what did you just give me?/300/Let me be real here. This gift sucks./420/Thanks./-79/ "
             }
         },
         {
@@ -1223,7 +1223,7 @@
             "Action": "EditData",
             "Target": "Data/Mail",
             "Entries": {
-                "spring_20_1": "Dear @,^  Please bring me a geode. Just a standard geode. I love cracking those things open.^   -Dylan  %item quest 1200 %%[#]20460_Dylan Mail Quest",
+                "spring_20_1": "Dear @,^  Please bring me a frozen geode. It must be a frozen geode! I love cracking those things open. You can find them way down deep in the mines.^   -Dylan  %item quest 1200 %%[#]20460_Dylan Mail Quest",
                 "summer_19_1": "Dear @,^  I would like a poppy. Could you grow one for me? Don't ask what it's for.^   -Jacob  %item quest 1201 %%[#]20460_Jacob Mail Quest",
                 "fall_2_1": "Hey @,^  Give me cheese.^   -SKYE  %item quest 1202 %%[#]20460_Skye Mail Quest",
                 "winter_9_1": "Dear @,^  Would you please bring me an aquamarine? I need it for an alchemical recipe.^   From,^     Kurtis  %item quest 1203 %%[#]20460_Kurtis Mail Quest",
@@ -1231,14 +1231,15 @@
                 "summer_13_2": "@,^  Could you get me a jasper? I know they're kind of hard to get, but I'll pay you. I need it for an art project.^ I hear you can find it in magma geodes.^   -Anastasia  %item quest 1205 %%[#]20460_Ana Mail Quest",
                 "fall_3_2": "Hello, @^  I need 25 blackberries for a recipe. Can you get them to me?^   -Zech  %item quest 1206 %%[#]20460_Zech Mail Quest",
                 "winter_11_2": "Dear @,^  This winter weather is making me crave a fish stew. Could you bring me one?^ Your friend,^   Ross  %item quest 1207 %%[#]20460_Ross Mail Quest",
-                "spring_11_3": "Greetings,^  I require 100 coffee for a brew I'm working on. Please bring them to me at your earliest convenience. I will reward you handsomely.^   -David S.R.  %item quest 1208 %%[#]20460_David Mail Quest"
+                "spring_11_3": "Greetings,^  I require 100 coffee for a brew I'm working on. Please bring them to me at your earliest convenience. I will reward you handsomely.^   -David S.R.  %item quest 1208 %%[#]20460_David Mail Quest",
+                "20460_Kurtis_Potion_Recipe": "[letterbg 2]Dear @,^ Here's that recipe I told you about! Don't worry - it's a simple recipe. These jars I'm sending you are laced with most of the required ingredients.^   Thanks for being there for me,^      Kurtis %item craftingRecipe 20460_KurtisPotion %%[#]Kurtis's Potion Recipe"
             }
         },
         {
             "Action": "EditData",
             "Target": "Data/Quests",
             "Entries": {
-                "1200": "ItemDelivery/Dylan's Geode/Dylan wants you to bring him a geode so he can crack it open at Clint's./Bring Dylan 1 geode./20460_Dylan (O)535/-1/400/-1/true/Hey, you got it! Thanks. Time to find out what's inside!$h",
+                "1200": "ItemDelivery/Dylan's Frozen Geode/Dylan wants you to bring him a frozen geode so he can crack it open at Clint's. They can be found below level 40 of the mines./Bring Dylan 1 frozen geode./20460_Dylan (O)536/-1/400/-1/true/Hey, you got it! Thanks. I'll have to take it to Clint's soon to find out what's inside!$h",
                 "1201": "ItemDelivery/Jacob's Poppy Procurement/Jacob wants you to bring him a poppy. His reasons are his own./Bring Jacob a poppy./20460_Jacob (O)376/-1/550/-1/true/Perfect! That's the good stuff. Here's the money. Take it.",
                 "1202": "ItemDelivery/Cheese for Skye/Skye demands cheese./Bring Skye a cow's cheese./20460_Skye (O)424/-1/1199/-1/true/Thanks! I'm so going to devour this tonight.",
                 "1203": "ItemDelivery/Alchemical Aquamarine/Kurtis requires an aquamarine for an alchemy project./Bring Kurtis an aquamarine./20460_Kurtis (O)62/-1/600/-1/true/Thanks! This is perfect. Here's your reward.$h",
@@ -1246,7 +1247,8 @@
                 "1205": "ItemDelivery/Jasper for Ana/Ana would like some jasper for an art project. You can find jasper in magma geodes./Bring Ana a jasper./20460_Ana (O)563/-1/900/-1/true/Hey, this is nice! Here's your reward!$h",
                 "1206": "ItemDelivery/Blackberries for Zech/Zech wants some blackberries./Bring Zech 25 blackberries./20460_Zech (O)410 25/-1/6000/-1/true/Thanks, man! Here's your reward.$h",
                 "1207": "ItemDelivery/Soup for Ross/Ross wants fish stew./Bring Ross a fish stew./20460_Ross (O)728/-1/2100/-1/true/Oh my goodness, that looks so good! Here's the money. Give me that!$h",
-                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./20460_David (O)395 100/-1/55000/-1/true/Gott in Himmel! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h"
+                "1208": "ItemDelivery/Ultimate Cold Brew/David wants 100 brewed coffees. He'll pay very well for them./Bring David 100 coffees./20460_David (O)395 100/-1/55000/-1/true/Gott in Himmel! You brought it all! How are you holding so many mugs?! Here's the payment, as promised.$h",
+                "1209": "Basic/The Greatest Potion/Kurtis needs moss and a pine cone for a potion./Bring 1 moss and 1 pine cone to the Wizard tower./null/-1/0/-1/false"
             }
         },
 
@@ -1511,7 +1513,11 @@
             "Target": "Data/Events/Beach",
             "Entries": {
                 //2-heart event with Shelby
-                "2046000/f 20460_Shelby 500/d Mon/t 600 1200": "ocean/42 11/farmer 38 3 2 20460_Shelby 100 100 2/skippable/advancedMove farmer false 0 8 8 0 1 1000/pause 4500/warp 20460_Shelby 49 11/playSound doorClose/pause 2000/faceDirection 20460_Shelby 3 true/pause 1000/speak 20460_Shelby \"@!#$b#I was just leaving for the forest.\"/pause 1000/faceDirection 20460_Shelby 2 true/speak 20460_Shelby \"It seems like I'm always at the forest these days. It just... it's home to me.#$b#I mean...$s#$b#It feels like home to me.\"/faceDirection 20460_Shelby 3 true/speak 20460_Shelby \"Of course, my home is with Zech.\"/emote farmer 8/pause 2000/speak 20460_Shelby \"*Ahem*...$s#$b#I should be on my way.#$b#It was nice running into you.\"/advancedMove 20460_Shelby false -2 0 0 1 -5 0/pause 4000/end"
+                "2046000/f 20460_Shelby 500/d Mon/t 600 1200": "ocean/42 11/farmer 38 3 2 20460_Shelby 100 100 2/skippable/advancedMove farmer false 0 8 8 0 1 1000/pause 4500/warp 20460_Shelby 49 11/playSound doorClose/pause 2000/faceDirection 20460_Shelby 3 true/pause 1000/speak 20460_Shelby \"@!#$b#I was just leaving for the forest.\"/pause 1000/faceDirection 20460_Shelby 2 true/speak 20460_Shelby \"It seems like I'm always at the forest these days. It just... it's home to me.#$b#I mean...$s#$b#It feels like home to me.\"/faceDirection 20460_Shelby 3 true/speak 20460_Shelby \"Of course, my home is with Zech.\"/emote farmer 8/pause 2000/speak 20460_Shelby \"*Ahem*...$s#$b#I should be on my way.#$b#It was nice running into you.\"/advancedMove 20460_Shelby false -2 0 0 1 -5 0/pause 4000/end",
+                //5-heart event with Dylan
+                "2046018/f 20460_Dylan 1250/d Sat/t 600 1930/w sunny": "ocean/14 10/farmer 14 11 3 20460_Dylan 10 10 3 20460_Zech 10 8 3/skippable/pause 2500/speak 20460_Zech \"It was nice chatting with ya.#$b#See you later, Pineapple!\"/move 20460_Zech 4 0 1/pause 1000/faceDirection 20460_Zech 2/faceDirection farmer 0/pause 500/speak 20460_Zech \"Nice to see you, @$h!#$b#I gotta run.\"/move 20460_Zech 8 0 1/warp 20460_Zech -100 -100/move farmer -4 0 3/faceDirection 20460_Dylan 2/pause 1000/speak 20460_Dylan \"Hello, @.\"/faceDirection farmer 0/emote farmer 8/speak 20460_Dylan \"Why do they call me Pineapple?#$b#Haha, that's a fair question.$h\"/pause 1000/faceDirection 20460_Dylan 3/speak 20460_Dylan \"It's not a very crazy story.\"/faceDirection farmer 3/pause 1000/speak 20460_Dylan \"It all started back in high school.#$b#You see, my family is from a tropical island south of here, down by the Gotoro Republic.#$b#Well, I never really knew my birth parents, but I still identify with that heritage.#$b#However, most people can't really guess where I'm from just by looking at me.#$b#They can tell I'm foreign, but most people assume I'm from the Gotoro Empire.\"/pause 1500/speak 20460_Dylan \"Growing up here, it caused some minor amount of drama and jokes.#$b#You know, people calling me names and stuff. In a joking way, like kids do.#$b#Well, this escalated until I decided to bring a pineapple to school to show my heritage.#$b#Like, 'Hey, look! I'm from the Fern Islands!' You know?\"/pause 1000/speak 20460_Dylan \"Well, it was a riot.#$b#It went over so well as a joke and symbol that everything went nuts from there.#$b#Classmates brought pineapples so that they could spend time with my pineapple.#$b#Dresses were brought for the pineapples to wear.#$b#Marriages between pineapples were arranged and broken.#$b#Feasts of fruit flesh were had and enjoyed.\"/pause 1000/faceDirection 20460_Dylan 2/speak 20460_Dylan \"You really had to be there.\"/pause 1000/faceDirection 20460_Dylan 3/pause 1000/speak 20460_Dylan \"And so... the name just kind of stuck.#$b#And that's the story of why people still call me Pineapple to this day.$h\"/pause 1000/speak 20460_Dylan \"Thanks for listening to my story.$h\"/friendship 20460_Dylan 100/pause 2000/end",
+                //2-heart event with Ross
+                "2046008/f 20460_Ross 500/d Mon/t 800 1700/w sunny": "ocean/53 8/farmer 54 11 0 20460_Ross 52 7 2/skippable/pause 2500/speak 20460_Ross \"Ah, @!#$b#Come here. Care to sit with me?\"/move farmer 0 -4 0/move farmer -1 0 3/faceDirection 20460_Ross 1/pause 500/speak 20460_Ross \"Ooh, this is perfect! Look at what I had in my pocket.$h\"/pause 500/speak 20460_Ross \"They're Tarot cards!$h\"/quickQuestion Which card would you like?#Straight from the top of the deck#Middle of the deck#Near the bottom of the deck(break)speak 20460_Ross \"Straight from the top, eh? Let's see...#$b#Oh! It looks like you drew the Tower! That's a major arcana!#$b#Those are the most important cards. It means something big is coming!#$b#I'm pretty sure that's a bad one to get, though...\"\\animate 20460_Ross false true 100 16 16\\pause 500\\speak 20460_Ross \"Let's see in my little book here...\"\\pause 1000\\speak 20460_Ross \"It says... 'The Tower, number XVI: Misery, distress, ruin, indigence, adversity, calamity, disgrace, deception.'\"\\emote farmer 28\\speak 20460_Ross \"Oh my! Well... that's pretty bad.\"\\stopAnimation 20460_Ross 4\\pause 500\\speak 20460_Ross \"It's just some cards, though.#$b#It probably doesn't mean anything!$h#$b#Still, it makes you think...\"\\faceDirection 20460_Ross 2\\pause 500\\faceDirection 20460_Ross 1\\pause 500\\speak 20460_Ross \"Thanks for spending time with me today.#$b#That was fun!$h#$b#Even if it was a bad fortune...\"\\friendship 20460_Ross 100\\emote farmer 32 true\\emote 20460_Ross 32\\pause 2000(break)speak 20460_Ross \"Alright, let's see...#$b#Oh! It looks like you drew the World! That's a major arcana!#$b#Those are the most important cards. It means something big is coming!#$b#This is a good one to get, too!\"\\animate 20460_Ross false true 100 16 16\\pause 500\\speak 20460_Ross \"Let's see in my little book here...\"\\pause 1000\\speak 20460_Ross \"It says... 'The World, number XXI: Assured success, route, voyage, emigration, flight, change of place.'\"\\speak 20460_Ross \"Huh. I wonder if that means you'll be going somewhere far away soon.#$b#Or maybe you traveled far to get where you are?\"\\stopAnimation 20460_Ross 4\\pause 500\\speak 20460_Ross \"I'll let you interpret it on your own.#$b#I'm not really that good at doing card readings.\"\\faceDirection 20460_Ross 2\\pause 500\\faceDirection 20460_Ross 1\\pause 500\\speak 20460_Ross \"Thanks for spending time with me today.#$b#That was fun!$h\"\\friendship 20460_Ross 100\\emote farmer 32 true\\emote 20460_Ross 32\\pause 2000(break)speak 20460_Ross \"Whoa! From the bottom!$h#$b#Alright, let's see...#$b#You drew... the 4 of Wands!#$b#Hey, that looks like a good card! The people there look like they're celebrating.$h\"\\animate 20460_Ross false true 100 16 16\\pause 500\\speak 20460_Ross \"Let's see in my little book here...\"\\pause 1000\\speak 20460_Ross \"It says... 'IV of Wands: From the four great staves planted in the foreground there is a great garland suspended,#$b#'two female figures uplift nosegays and at their side is a bridge over a moat, leading to an old manorial house.#$b#'Divinatory meanings: Country life, repose, concord, harmony, prosperity, peace, and the perfected work of these.'\"\\pause 500\\speak 20460_Ross \"That's pretty fitting for a farmer!$h#$b#And hey! It reminds me of the Flower Dance!$h#$b#You know, the one that happens every spring here?#$b#With all the nosegays and gaiety and crossing a rickety bridge and all that.\"\\stopAnimation 20460_Ross 4\\pause 500\\speak 20460_Ross \"I'm not the best at card readings, but this seems pretty straightforward.#$b#You'll enjoy peace and harmony in the countryside!$h\"\\faceDirection 20460_Ross 2\\pause 500\\faceDirection 20460_Ross 1\\pause 500\\speak 20460_Ross \"Thanks for spending time with me today.#$b#That was fun!$h\"\\friendship 20460_Ross 100\\emote farmer 32 true\\emote 20460_Ross 32\\pause 2000/end"
             }
         },
         {
@@ -1539,7 +1545,11 @@
             "Target": "Data/Events/WizardHouse",
             "Entries": {
                 //Initial Wizard Cutscene (adding Kurtis)
-                "112/n seenJunimoNote": "WizardSong/-1000 -1000/farmer 8 24 0 Wizard 10 15 2 Junimo -2000 -2000 2 20460_Kurtis 9 20 2/skippable/addConversationTopic cc_Begin/showFrame Wizard 20/viewport 8 18 true/move farmer 0 -3 0/emote 20460_Kurtis 16 true/jump 20460_Kurtis/pause 2000/speak 20460_Kurtis \"A visitor!\"/speak Wizard \"Ah... Come in.\"/pause 800/animate Wizard false false 100 20 21 22 0/playSound dwop/pause 1000/stopAnimation Wizard/move Wizard -2 0 3 false/move Wizard 0 2 2/pause 1500/speak Wizard \"I am Rasmodius... Seeker of the arcane truths.#$b#Mediary between physical and ethereal.#$b#Master of the seven elementals.#$b#Keeper of the sacred cha-... you get the point.\"/pause 1000/speak Wizard \"And that over there is my apprentice, Kurtis.\"/faceDirection 20460_Kurtis 3/pause 400/faceDirection 20460_Kurtis 2/pause 1000/speak 20460_Kurtis \"Hey.\"/move Wizard 0 1 2/speak Wizard \"And you... @. The one whose arrival I have long foreseen.\"/pause 1500/speak Wizard \"Here, I'd like to show you something.\"/pause 500/faceDirection Wizard 1/playMusic none/pause 800/speak Wizard \"Behold!\"/faceDirection 20460_Kurtis 0/playMusic clubloop/pause 1000/showFrame Wizard 19/playSound wand/screenFlash .8/warp Junimo 10 17/specificTemporarySprite junimoCage/pause 3000/shake Junimo 800/playSound junimoMeep1/pause 1000/shake Junimo 800/playSound junimoMeep1/pause 1000/faceDirection Wizard 1 true/showFrame Wizard 4/pause 2000/shake Junimo 800/playSound junimoMeep1/pause 1000/speak Wizard \"You've seen one before, haven't you?\"/move Wizard 0 -1 1/pause 1000/shake Junimo 800/playSound junimoMeep1/pause 1000/speak Wizard \"They call themselves the 'Junimos'...#$b#Mysterious spirits, these ones... For some reason, they refuse to speak with me.\"/pause 1000/playSound dwop/faceDirection Wizard 2 true/showFrame Wizard 16/pause 500/playSound wand/screenFlash .8/warp Junimo -3000 -3000/specificTemporarySprite junimoCageGone/playMusic WizardSong/pause 1000/showFrame Wizard 0/pause 500/speak Wizard \"I'm not sure why they've moved into the community center, but you have no reason to fear them.\"/pause 1000/move farmer 0 -1 0/emote farmer 48/pause 1000/speak Wizard \"Hmmm? You found a golden scroll written in an unknown language?#$b#Most interesting...\"/move Wizard 0 1 2/speak Wizard \"Stay here. I'm going to see for myself. I'll return shortly.\"/pause 1000/playSound shwip/faceDirection Wizard 3 true/pause 50/faceDirection Wizard 0 true/pause 50/faceDirection Wizard 1 true/pause 50/faceDirection Wizard 2 true/pause 50/showFrame Wizard 16/pause 500/playSound wand/warp Wizard -3000 -3000/specificTemporarySprite wizardWarp/pause 2000/faceDirection farmer 1 true/faceDirection 20460_Kurtis 3/faceDirection farmer 3 true/faceDirection 20460_Kurtis 1/faceDirection farmer 0 true/faceDirection 20460_Kurtis 0/pause 2000/playSound dwop/faceDirection Wizard 0 true/faceDirection farmer 1 true/faceDirection 20460_Kurtis 1 true/pause 50/faceDirection farmer 2 true/faceDirection 20460_Kurtis 2/pause 1500/playSound doorClose/warp Wizard 8 24/faceDirection farmer 2 true/showFrame farmer 94/startJittering/move Wizard 0 -1 0/stopJittering/showFrame farmer 0/move Wizard 0 -2 0/speak Wizard \"I found the note...\"/move Wizard -2 0 3/pause 800/speak Wizard \"The language is obscure, but I was able to decipher it:\"/pause 1000/message \"We, the Junimo, are happy to aid you. In return, we ask for gifts of the valley. If you are one with the forest then you will see the true nature of this scroll.\"/pause 500/move Wizard 0 -2 3/faceDirection farmer 3 true/move Wizard -3 0 2/move 20460_Kurtis 0 -1 3/pause 1000/showFrame Wizard 18/emote Wizard 40/speak Wizard \"Hmm... 'One with the forest'... What do they mean?\"/pause 1000/speak Wizard \"...*sniff*...*sniff*...\"/pause 1500/showFrame Wizard 0/jump Wizard/pause 800/speak Wizard \"Ah-hah!$h\"/pause 800/faceDirection Wizard 1/speak Wizard \"Farmer, come here!$h\"/pause 500/move farmer -2 0 0/move farmer 0 -1 3/move farmer -2 0 3/move Wizard -1 0 2/move farmer -1 0 2/pause 500/speak Wizard \"My cauldron is bubbling with ingredients from the forest.$h#$b#Baby fern, moss grub, caramel-top toadstool... Can you smell it?$h\"/pause 500/showFrame Wizard 18/showFrame 96/pause 1000/speak Wizard \"Here. Drink up. Let the essence of the forest permeate your body.$h\"/pause 800/emote farmer 28/showFrame Wizard 19/pause 800/showFrame farmer 90/pause 1000/farmerEat 184/textAboveHead 20460_Kurtis \"Ew...\"/pause 4000/playSound gulp/animate farmer false true 350 104 105/pause 4000/specificTemporarySprite farmerForestVision/pause 7000/pause 19500/globalFade .008/specificTemporarySprite junimoCageGone2/viewport -1000 -1000/playMusic none/pause 2000/playSound reward/pause 300/message \"You've gained the power of forest magic! Now you can decipher the true meaning of the Junimo scrolls.\"/end warpOut"
+                "112/n seenJunimoNote": "WizardSong/-1000 -1000/farmer 8 24 0 Wizard 10 15 2 Junimo -2000 -2000 2 20460_Kurtis 9 20 2/skippable/addConversationTopic cc_Begin/showFrame Wizard 20/viewport 8 18 true/move farmer 0 -3 0/emote 20460_Kurtis 16 true/jump 20460_Kurtis/pause 2000/speak 20460_Kurtis \"A visitor!\"/speak Wizard \"Ah... Come in.\"/pause 800/animate Wizard false false 100 20 21 22 0/playSound dwop/pause 1000/stopAnimation Wizard/move Wizard -2 0 3 false/move Wizard 0 2 2/pause 1500/speak Wizard \"I am Rasmodius... Seeker of the arcane truths.#$b#Mediary between physical and ethereal.#$b#Master of the seven elementals.#$b#Keeper of the sacred cha-... you get the point.\"/pause 1000/speak Wizard \"And that over there is my apprentice, Kurtis.\"/faceDirection 20460_Kurtis 3/pause 400/faceDirection 20460_Kurtis 2/pause 1000/speak 20460_Kurtis \"Hey.\"/move Wizard 0 1 2/speak Wizard \"And you... @. The one whose arrival I have long foreseen.\"/pause 1500/speak Wizard \"Here, I'd like to show you something.\"/pause 500/faceDirection Wizard 1/playMusic none/pause 800/speak Wizard \"Behold!\"/faceDirection 20460_Kurtis 0/playMusic clubloop/pause 1000/showFrame Wizard 19/playSound wand/screenFlash .8/warp Junimo 10 17/specificTemporarySprite junimoCage/pause 3000/shake Junimo 800/playSound junimoMeep1/pause 1000/shake Junimo 800/playSound junimoMeep1/pause 1000/faceDirection Wizard 1 true/showFrame Wizard 4/pause 2000/shake Junimo 800/playSound junimoMeep1/pause 1000/speak Wizard \"You've seen one before, haven't you?\"/move Wizard 0 -1 1/pause 1000/shake Junimo 800/playSound junimoMeep1/pause 1000/speak Wizard \"They call themselves the 'Junimos'...#$b#Mysterious spirits, these ones... For some reason, they refuse to speak with me.\"/pause 1000/playSound dwop/faceDirection Wizard 2 true/showFrame Wizard 16/pause 500/playSound wand/screenFlash .8/warp Junimo -3000 -3000/specificTemporarySprite junimoCageGone/playMusic WizardSong/pause 1000/showFrame Wizard 0/pause 500/speak Wizard \"I'm not sure why they've moved into the community center, but you have no reason to fear them.\"/pause 1000/move farmer 0 -1 0/emote farmer 48/pause 1000/speak Wizard \"Hmmm? You found a golden scroll written in an unknown language?#$b#Most interesting...\"/move Wizard 0 1 2/speak Wizard \"Stay here. I'm going to see for myself. I'll return shortly.\"/pause 1000/playSound shwip/faceDirection Wizard 3 true/pause 50/faceDirection Wizard 0 true/pause 50/faceDirection Wizard 1 true/pause 50/faceDirection Wizard 2 true/pause 50/showFrame Wizard 16/pause 500/playSound wand/warp Wizard -3000 -3000/specificTemporarySprite wizardWarp/pause 2000/faceDirection farmer 1 true/faceDirection 20460_Kurtis 3/faceDirection farmer 3 true/faceDirection 20460_Kurtis 1/faceDirection farmer 0 true/faceDirection 20460_Kurtis 0/pause 2000/playSound dwop/faceDirection Wizard 0 true/faceDirection farmer 1 true/faceDirection 20460_Kurtis 1 true/pause 50/faceDirection farmer 2 true/faceDirection 20460_Kurtis 2/pause 1500/playSound doorClose/warp Wizard 8 24/faceDirection farmer 2 true/showFrame farmer 94/startJittering/move Wizard 0 -1 0/stopJittering/showFrame farmer 0/move Wizard 0 -2 0/speak Wizard \"I found the note...\"/move Wizard -2 0 3/pause 800/speak Wizard \"The language is obscure, but I was able to decipher it:\"/pause 1000/message \"We, the Junimo, are happy to aid you. In return, we ask for gifts of the valley. If you are one with the forest then you will see the true nature of this scroll.\"/pause 500/move Wizard 0 -2 3/faceDirection farmer 3 true/move Wizard -3 0 2/move 20460_Kurtis 0 -1 3/pause 1000/showFrame Wizard 18/emote Wizard 40/speak Wizard \"Hmm... 'One with the forest'... What do they mean?\"/pause 1000/speak Wizard \"...*sniff*...*sniff*...\"/pause 1500/showFrame Wizard 0/jump Wizard/pause 800/speak Wizard \"Ah-hah!$h\"/pause 800/faceDirection Wizard 1/speak Wizard \"Farmer, come here!$h\"/pause 500/move farmer -2 0 0/move farmer 0 -1 3/move farmer -2 0 3/move Wizard -1 0 2/move farmer -1 0 2/pause 500/speak Wizard \"My cauldron is bubbling with ingredients from the forest.$h#$b#Baby fern, moss grub, caramel-top toadstool... Can you smell it?$h\"/pause 500/showFrame Wizard 18/showFrame 96/pause 1000/speak Wizard \"Here. Drink up. Let the essence of the forest permeate your body.$h\"/pause 800/emote farmer 28/showFrame Wizard 19/pause 800/showFrame farmer 90/pause 1000/farmerEat 184/textAboveHead 20460_Kurtis \"Ew...\"/pause 4000/playSound gulp/animate farmer false true 350 104 105/pause 4000/specificTemporarySprite farmerForestVision/pause 7000/pause 19500/globalFade .008/specificTemporarySprite junimoCageGone2/viewport -1000 -1000/playMusic none/pause 2000/playSound reward/pause 300/message \"You've gained the power of forest magic! Now you can decipher the true meaning of the Junimo scrolls.\"/end warpOut",
+                //5-heart event with Kurtis (Part A)
+                "2046030/f 20460_Kurtis 1250": "WizardSong/8 18/farmer -100 -100 0 Wizard 3 17 2 20460_Kurtis 5 19 2/skippable/animate 20460_Kurtis false true 100 16 16 16 16 16 16 16 16 16 16 19 19 19 19 19 19 19 19 16 16 16 16 16 17 17 17 17 17 17 18 17 18 17 18 17 18 17 18 17 18 18 18 18 18 18 18 18 17 17 17 18 18 18 17 17 18 18 18 18 18 18 18 16 16 16 16 16/pause 2500/speak Wizard \"Oh come on. You're doing it all wrong.#$b#You're better than this. I know it!\"/pause 500/speak 20460_Kurtis \"Hey, you're not exactly being helpful.$s#$b#What do you recommend I add to this?\"/speak Wizard \"ADD to it?!#$b#It was supposed to be a simple ointment! You've added 31 ingredients already!#$b#Sure! Yes! I'm sure the 32nd ingredient will make it all the better!#$b#It sounds like you need to read Basics of Alchemical Principles again!\"/pause 1000/speak 20460_Kurtis \"Ugh, the sarcasm really isn't helping me.#$b#What's the point of being your apprentice if you aren't going to teach me?\"/pause 500/speak Wizard \"I can't do everything for you.#$b#You need to struggle to grow!$h\"/pause 1000/warp farmer 8 24/playSound doorClose/pause 2000/stopAnimation 20460_Kurtis 0/pause 500/speak 20460_Kurtis \"Oh, hey, @.\"/pause 1000/speak 20460_Kurtis \"Come on in. I'm just working on something.\"/move farmer 0 -5 0/move farmer -2 0 3/faceDirection 20460_Kurtis 1/speak 20460_Kurtis \"What brings you here?\"/emote Wizard 12/speak Wizard \"It will take years of practice and diligence to master the art of alchemy.#$b#But sure.#$b#Socialize.\"/faceDirection 20460_Kurtis 0/pause 1000/playSound shwip/faceDirection Wizard 3 true/pause 50/faceDirection Wizard 0 true/pause 50/faceDirection Wizard 1 true/pause 50/faceDirection Wizard 2 true/pause 50/showFrame Wizard 16/pause 500/playSound wand/warp Wizard -3000 -3000/specificTemporarySprite wizardWarp/pause 2000/emote 20460_Kurtis 12/faceDirection 20460_Kurtis 1/speak 20460_Kurtis \"Don't worry about it.\"/pause 2000/speak 20460_Kurtis \"I'm glad you're here.$h#$b#I was actually trying to make a potion for you.\"/emote farmer 16/speak 20460_Kurtis \"Yeah, well...$s#$b#I've seen how hard you've been working, and I appreciate all you've done for me.#$b#But, uh... The potion isn't exactly going well.$s\"/animate 20460_Kurtis false true 100 16 16/pause 1000/speak 20460_Kurtis \"I know I'm going against the Wizard's advice, but I feel like this potion still needs something.#$b#Maybe, some moss and a pine cone?\"/emote farmer 60/stopAnimation 20460_Kurtis 0/pause 1000/speak 20460_Kurtis \"My intuition is telling me that.\"/pause 500/faceDirection 20460_Kurtis 2/pause 500/faceDirection 20460_Kurtis 1/pause 500/speak 20460_Kurtis \"Could you get those items and bring them here? I'd greatly appreciate it.\"/addQuest 1209/pause 2500/end",
+                //5-heart event with Kurtis (Part B)
+                "2046031/e 2046030/i Moss/i 311": "WizardSong/8 18/farmer 8 24 0 20460_Kurtis 5 19 2/skippable/playSound doorClose/mail 20460_Kurtis_Potion_Recipe/removeQuest 1209/removeItem Moss/removeItem 311/pause 2500/speak 20460_Kurtis \"You're back!$h#$b#And you have the ingredients!$h#$b#Give me those ingredients and I'll try using them...\"/pause 100/move farmer 0 -5 0/faceDirection 20460_Kurtis 1 true/move farmer -2 0 3/speak 20460_Kurtis \"Perfect!$h#$b#Okay, just give me a moment...\"/animate 20460_Kurtis false false 100 16 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 18 17 18 17 18 17 18 17 18 17 18 17 18 17 18 17 18 17 18 17 17 17 17 17 17 17 17 17 17 16 16 16 16 16 16 16 16 16 16/pause 5700/speak 20460_Kurtis \"Oh! Well, that's definitely not a rash ointment...$s\"/emote farmer 8/speak 20460_Kurtis \"Let me have a small taste...\"/animate 20460_Kurtis false false 500 17 18/pause 1000/jump 20460_Kurtis 10/pause 100/speak 20460_Kurtis \"Wow!$h#$b#It's full of energy!$h\"/emote farmer 16/speak 20460_Kurtis \"Here, try it!$h\"/emote farmer 60/farmerEat 20460_KurtisPotion/speak 20460_Kurtis \"Feel all that energy?$h#$b#Here, take the rest.[20460_KurtisPotion]#$b#I'll have to send you the recipe later.#$b#I'm so excited that it actually worked!$h#$b#Well, it wasn't what I was trying to make...#$b#But it's great!$h#$b#Oh, I have to finish writing this recipe down! And remember all the details!\"/faceDirection 20460_Kurtis 3/emote farmer 32/pause 1000/end"
             }
         },
         {
@@ -1589,7 +1599,8 @@
             "Entries": {
                 "20460_shelby_korok": "16/16 16 16 17 17 17/17/Strings\\animationDescriptions:20460_shelby_korok_01",
                 "20460_ana_drawing": "16/16 16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 17 17 17 19 19 19 19 19 19 19 19 19 19 16 17 16 17 16 16 16 16 16 16 16 16 16 16 19 19 18 18 18 18 18 18 18 18 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19/19/Strings\\animationDescriptions:20460_ana_drawing_01",
-                "20460_jacob_eepy": "16/16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 19 18 17 16 16 16 16 16 16 16 16 16 17 18 17/16/Strings\\animationDescriptions:20460_jacob_eepy_01"
+                "20460_jacob_eepy": "16/16 16 16 16 16 16 16 16 16 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 19 18 17 16 16 16 16 16 16 16 16 16 17 18 17/16/Strings\\animationDescriptions:20460_jacob_eepy_01",
+                "20460_kurtis_potion": "16/16 16 16 16 16 16 16 16 16 16 19 19 19 19 19 19 19 19 16 16 16 16 16 17 17 17 17 17 17 18 17 18 17 18 17 18 17 18 17 18 18 18 18 18 18 18 18 17 17 17 18 18 18 17 17 18 18 18 18 18 18 18 16 16 16 16 16/19"
             }
         },
 
@@ -1690,7 +1701,7 @@
                     "MinDamage": 56,
                     "MaxDamage": 66,
                     "Knockback": 0.8,
-                    "Speed": 3,
+                    "Speed": 4,
                     "Precision": 0,
                     "Defense": 0,
                     "Type": 0,
@@ -1707,5 +1718,78 @@
                   }
             }
         },
+
+        //Other items and Craftables
+
+        //Kurtis's Potion and its recipe
+        {
+            "LogName": "Load Texture",
+            "Action": "Load",
+            "Target": "Mods/Ross.20460/Consumable_texture",
+            "FromFile": "assets/ConsumableArt.png"
+        },
+        {
+            "LogName": "Item Data",
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "20460_KurtisPotion": {
+                    "Name": "Kurtis's Potion",
+                    "DisplayName": "{{i18n:KurtisPotion}}",
+                    "Description": "{{i18n:KurtisPotionDescription}}",
+                    "Type": "Cooking",
+                    "Category": -7,
+                    "Price": 75,
+                    "Texture": "Mods/Ross.20460/Consumable_texture",
+                    "SpriteIndex": 0,
+                    "Edibility": 10,
+                    "IsDrink": true,
+                    "Buffs": [
+                      {
+                        "Id": "Drink",
+                        "BuffId": null,
+                        "IconTexture": null,
+                        "IconSpriteIndex": 0,
+                        "Duration": 70,
+                        "IsDebuff": false,
+                        "GlowColor": null,
+                        "CustomAttributes": {
+                          "FarmingLevel": 0.0,
+                          "FishingLevel": 0.0,
+                          "MiningLevel": 0.0,
+                          "LuckLevel": 0.0,
+                          "ForagingLevel": 0.0,
+                          "MaxStamina": 0.0,
+                          "MagneticRadius": 0.0,
+                          "Speed": 3.0,
+                          "Defense": 0.0,
+                          "Attack": 0.0
+                        },
+                        "CustomFields": null
+                      }
+                    ],
+                    "GeodeDropsDefaultItems": false,
+                    "GeodeDrops": null,
+                    "ArtifactSpotChances": null,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                      "color_dark_brown",
+                      "dye_strong",
+                      "coffee_item"
+                    ],
+                    "CustomFields": null
+                  }
+            }
+        },
+        {
+            "LogName": "Crafting Recipe Data",
+            "Action": "EditData",
+            "Target": "Data/CraftingRecipes",
+            "Entries": {
+                "20460_KurtisPotion": "Moss 10 311 1/Field/20460_KurtisPotion/false/null"
+            }
+        }
     ]
 }
