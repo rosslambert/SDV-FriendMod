@@ -10,21 +10,34 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 
 ## Plans
-* At least one heart event per character. Version 2.1.0 will have plenty of heart events!
-    * Upcoming: Jacob event
-* At some much later date, maybe refine the events that I added. Some of them are a little rough around the edges.
+* At some much later date, maybe refine the events that I added. Some of them are a little rough around the edges. Especially David's 8-heart event!
 * Seems difficult to pull off, but allowing the player to enter Harvey's room when at 2 hearts with David or Ross, or enter Elliot's cabin with 2 hearts with Zech or Shelby, or enter Leah's cabin with 2 hearts with Jacob.
 * Include special compatibility with Ridgeside and SVE.
 * Include additional NPCs, Kato, Sam, Jackie, and Shane.
 * Have clinic visits for each new NPC.
 * Turn the desert excursion on Summer 1 into a dance party.
+* Improve David's and Ross's smiling portraits. They both look weird.
+* Implement island resort dialogue.
+* Maybe redo Kurtis's potion art?
 
 ## Known Bugs
 * Many compatibility issues with Ridgeside and SVE. Nothing gamebreaking, but people are standing in places they shouldn't be in the changed maps, especially in festivals like Spirit's Eve.
 * If you don't have the bridge on the beach built by Summer 7, Ana and Shelby will ford the river and walk to the other side anyway.
 * On Sundays in Fall, Ross may spend the evening staring at a bush. He is supposed to be looking AWAY from the bush.
+* Kurtis's sprite does not appear on the calendar because he shares a birthday with Demitrius.
 
 ## Updates
+
+### V 2.1.0
+* Added an event in town when the player gets 2 hearts with Jacob. Now all the new NPCs have at least one event each!
+* Added an event in the saloon when the player gets 2 hearts with David.
+* Added an event in the mountains when the player gets 5 hearts with David.
+* David can now be seen playing pool on Fridays and on rainy days.
+* Ross now uses a reading animation at book club, and on Thursdays and Fridays.
+* Changes to Ross's, David's, and Dylan's dialogues.
+* Made Dylan love thunder egg.
+* Created new sprites for David.
+* Created a new portrait for David.
 
 ### V 2.0.6
 * Created 2 events and a quest in the Wizard tower when the player gets 5 hearts with Kurtis.
@@ -33,9 +46,9 @@ This mod adds Ross and his friends into the game of Stardew Valley. These 9 NPCs
 * Added a new potion which can be crafted. Kurtis teaches the recipe after his 5-heart event.
 * Created an animation for Kurtis which he uses basically every day.
 * Big changes to likes and dislikes.
-* New sprite art for Ross.
 * Small changes to Kurtis's and Shelby's dialogues.
 * Slightly changed the appearance of David's Epee.
+* New sprite art for Ross.
 
 ### V 2.0.5
 * Added an event in the mountains when the player gets 8 hearts with David.
